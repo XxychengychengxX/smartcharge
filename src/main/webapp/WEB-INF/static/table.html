@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        .show_table {
+            text-align: center;
+            border: 1px solid;
+        }
+
+        .show_table td {
+            width: 100px;
+            height: 100px;
+            padding: 20px;
+        }
+
+
+        .show_form {
+            width: 600px;
+            height: 500px;
+            text-align: center;
+            border: 1px solid;
+        }
+
+        .show_form div {
+            font-size: 20px;
+            padding: 20px;
+            margin: 40px;
+            color:rgba(255, 0, 0, 0.8);
+        }
+
+        .show_form input {
+            background-color: rgba(0, 174, 255, 0.2);
+            width: 60%;
+            color: #fff;
+            border: none;
+            border-bottom: 1px solid rgba(255, 255, 255, 0.4);
+            padding: 20px 0;
+            text-indent: 10px;
+            margin: 8px 0;
+            font-size: 14px;
+            letter-spacing: 2px;
+        }
+
+        input::placeholder {
+            color: #fff;
+        }
+
+        input:focus {
+            color: #a262ad;
+            outline: none;
+            border-bottom: 1px solid #a262ad80;
+            transition: 0.5s;
+        }
+
+        input:focus::placeholder {
+            opacity: 0;
+        }
+
+        .show_form button {
+            width: 60%;
+            margin-top: 35px;
+            background-color: #f6f6f6;
+            outline: none;
+            border-radius: 8px;
+            padding: 13px;
+            color: #a262ad;
+            letter-spacing: 2px;
+            border: none;
+            cursor: pointer;
+        }
+
+        .show_form button:hover {
+            background-color: #a262ad;
+            color: #f6f6f6;
+            transition: background-color 0.5s ease;
+        }
+    </style>
+</head>
+
+<body>
+    <table class=show_table id="div2_table2">
+        <tr>
+            <td>车牌号：</td>
+            <td>京N8F8FG</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>电池大小：</td>
+            <td>400</td>
+            <td></td>
+        </tr>
+    </table>
+
+    <form class="show_form" name="div2_form1" id="div2_form1">
+        <div>您还未注册车辆，请注册</div>
+        <input type="text" id="ceDeck1" placeholder="车牌号">
+        <input type="text" id="batterySize1" placeholder="电池大小">
+        <button type="submit">提交</button>
+    </form>
+</body>
+
+</html>

@@ -1,0 +1,99 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: top;
+}
+
+.container {
+    width: 1140px;
+    height: 10px;
+    border-radius: 5px;
+    position: relative;
+}
+
+.top{
+    background-color: white;
+    border: white;
+    
+}
+
+ul {
+    background-color: white;
+    list-style-type: none;
+    overflow: hidden;
+}
+
+a{
+    text-decoration:none;
+}
+
+li {
+    float: left;
+}
+
+li img {
+    width: 140px;
+    height: 105px;
+}
+
+li a {
+    display: block;
+    color: grey;
+    text-decoration: none;
+    text-align: center;
+    padding: 42px 48px;
+}
+
+li a:hover {
+    background-color: rgba(0, 255, 255, 0.1);
+    color: red;
+}
+
+.active {
+    background-color: #555;
+}
+
+.bottom {
+    top: 3000px;
+    bottom: 100px;
+    position: absolute;
+}
+
+#bottom_table {
+    border-collapse: collapse;
+    width: 1170px;
+    height: 300px;
+    background-color: grey;
+}
+
+#bottom_table td {
+    width: 200px;
+    height: 60px;
+    border: 3px solid grey;
+    color: white;
+    text-align: center;
+}
+
+.bottom_img {
+    width: 50px;
+    height: 50px;
+}
+
+.weixin_img {
+    width: 100px;
+    height: 100px;
+}
+
+td a:link {
+    color: yellow;
+    text-decoration: none;
+}
+
+td a:hover {
+    color: red;
+}

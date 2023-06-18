@@ -1,0 +1,89 @@
+#d1 {
+    position: absolute;
+    top:150px;
+    width: 1140px;
+    /*定义宽高*/
+    height: 427px;
+    background: url(picture/1.png);
+    /*图片用背景的方式展示在d1块上*/
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.i1 {
+    /*定义按钮大小位置*/
+    width: 70px;
+    height: 50px;
+    position: absolute;
+    /*绝对定位*/
+    top: 50%;
+    left: 10px;
+    margin-top: -25px;
+    font-size: 40px;
+    opacity:0.2;
+}
+
+.i2 {
+    /*定义按钮大小位置*/
+    width: 70px;
+    height: 50px;
+    position: absolute;
+    /*绝对定位*/
+    top: 50%;
+    right: 10px;
+    margin-top: -25px;
+    font-size: 40px;
+    opacity:0.2;
+}
+
+#d2 {
+    /*定义播放顺序板块的大小位置*/
+    position: absolute;
+    /*绝对定位*/
+    width: 200px;
+    height: 30px;
+    background: none;
+    /*无背景,理解为透明*/
+    bottom: 0px;
+    left: 50%;
+    margin-left: -100px;
+    display: flex;
+    /*横向排列,使5个点横向排列*/
+}
+
+#d21,#d22,#d23 {
+    /*定义播放顺序板块中每一个小圆圈的大小和位置*/
+    width: 10px;
+    height: 10px;
+    background: rgb(0, 140, 255);
+    /*rgba四个字母代表红绿蓝透明*/
+    /*这里其实使用rgb或者16进制就可以,多此一举了*/
+    position: relative;
+    /*相对定位,相对于自身未设置之前的位置*/
+    margin-top: 10px;
+    margin-left: 25px;
+    border-radius: 5px;
+}
+.row{
+    top:500px;
+    position: absolute;
+}
+img{
+    position: relative;
+    width:1170px;
+
+}
+
+.img1{
+    width:1170px;
+    height:590px;
+}
+.img2{
+    width:1170px;
+    height:792px;
+}
+.img3{
+    width:1170px;
+    height:592px;
+}

@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>主界面</title>
+    <link rel="stylesheet" href="home.css">
+    <link rel="stylesheet" href="head-foot.css">
+</head>
+
+<body>
+    <div class="container">
+        <!-- 头部导航栏 -->
+        <script type="text/javascript" src="header.js"></script>
+
+        <!--轮播区-->
+        <div id="d1" onmouseover="off()" onmouseleave="on()">
+            <!--onMouseOver="off()"鼠标悬浮停止播放-->
+            <!--onMouseOver="on()"鼠标离开开始播放-->
+            <!--d1为图片展示区域-->
+            <input type="button" value="<" onClick="noadd()" class="i1"><!--上一张按钮-->
+            <input type="button" value=">" onClick="add()" class="i2"><!--下一张按钮-->
+            <div id="d2"><!--播放顺序展示-->
+                <!--三个个顺序点-->
+                <div id="d21" onClick=""></div>
+                <div id="d22" onClick=""></div>
+                <div id="d23" onClick=""></div>
+            </div>
+        </div>
+        <!--  展示区 -->
+        <br>
+        <br>
+        <br>
+        <br>
+        <div class="container">
+            <div class="row ">
+                <div><img src="picture/content_1.png" class="img1" alt="Responsive image"></div>
+                <div><img src="picture/content_2.png" class="img2" alt="Responsive image"></div>
+                <div><img src="picture/content_3.png" class="img3" alt="Responsive image"></div>
+            </div>
+        </div>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <!-- 尾部导航栏 -->
+        <script type="text/javascript" src="footer.js"></script>
+        <script type="text/javascript" src="home.js"></script>
+    </div>
+</body>
+
+</html>

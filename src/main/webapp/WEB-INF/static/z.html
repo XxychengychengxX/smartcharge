@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+        }
+
+        table {
+            margin: 0 auto;
+            text-align: center;
+            border-collapse: collapse;
+        }
+
+        table th,
+        td {
+            border: 1px solid #000;
+            padding: 15px;
+        }
+
+        table caption {
+            margin: 15px 0;
+
+        }
+    </style>
+</head>
+
+<body>
+    <!--制作表格-->
+
+    <script>
+        //输入三个数据
+        let show_orderid = prompt('订单号')
+        let show_orderstarttime = +prompt('订单生成时间')
+        let show_orderupdatetime = +prompt('订单更新时间')
+        let show_starttime = prompt('开始时间')
+        let show_chargeduration = prompt('充电持续时间')
+        let show_chargetype = prompt('充电类型')
+        let show_chargenumber = prompt('充电桩编号')
+        let show_chargedegree = prompt('充电度数')
+        let show_totalfee = prompt('总费用')
+        let show_orderisdone = prompt('订单是否结束')
+
+        //渲染表格，填充数据
+        document.write(`
+        document.writeln("<table class=show_table id=\'div4_table1\'>");
+        <caption>
+            <h2>
+                订单付款页面
+            </h2>
+        </caption>
+        <tr>
+            <th>订单号</th>
+            <th>订单生成时间</th>
+            <th>订单更新时间</th>
+            <th>充电开始时间</th>
+            <th>充电持续时间</th>
+            <th>充电类型</th>
+            <th>充电桩编号</th>
+            <th>充电度数</th>
+            <th>总费用</th>
+            <th>订单是否结束</th>
+        </tr>
+        `)
+        for (let i = 0; i <= 5; i++) {
+            console.log(i);
+            document.write(`
+            <tr>
+            <th>${show_orderid}</th>
+            <th>${show_orderstarttime}</th>
+            <th>${show_orderupdatetime}</th>
+            <th>${show_starttime}</th>
+            <th>${show_chargeduration}</th>
+            <th>${show_chargetype}</th>
+            <th>${show_chargenumber}</th>
+            <th>${show_chargedegree}</th>
+            <th>${show_totalfee}</th>
+            <th>${show_orderisdone}</th>
+        </tr>
+        `)
+        }
+        document.write(`
+        </table>
+        `)
+    </script>
+</body>
+
+</html>
+
+
+
+
+
+document.write(`
+<table class=show_table id=\'div4_table1\'>
+<caption>
+    <h2>
+        历史订单详情
+    </h2>
+</caption>
+<tr>
+    <th>订单号</th>
+    <th>订单生成时间</th>
+    <th>订单更新时间</th>
+    <th>充电开始时间</th>
+    <th>充电持续时间</th>
+    <th>充电类型</th>
+    <th>充电桩编号</th>
+    <th>充电度数</th>
+    <th>总费用</th>
+    <th>订单是否结束</th>
+</tr>
+`)
+    for (let i = 0; i < 5; i++) {
+        let show_orderid = i + 1;
+        let show_orderstarttime = data[i].created_at;
+        let show_orderupdatetime = data[i].updated_at;
+        let show_starttime = data[i].chargeStartTime;
+        let show_chargeduration = data[i].chargeDuration;
+        let show_chargetype = data[i].chargeMod;
+        let show_chargenumber = data[i].deviceID;
+        let show_chargedegree = data[i].chargeAmount;
+        let show_totalfee = data[i].totalFee;
+        let show_orderisdone = data[i].isDone;
+        document.write(`
+    <tr>
+    <th>${show_orderid}</th>
+    <th>${show_orderstarttime}</th>
+    <th>${show_orderupdatetime}</th>
+    <th>${show_starttime}</th>
+    <th>${show_chargeduration}</th>
+    <th>${show_chargetype}</th>
+    <th>${show_chargenumber}</th>
+    <th>${show_chargedegree}</th>
+    <th>${show_totalfee}</th>
+    <th>${show_orderisdone}</th>
+</tr>
+`)
+    }
+    document.write(`
+</table>
+`)

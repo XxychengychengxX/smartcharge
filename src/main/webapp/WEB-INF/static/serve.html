@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>服务与支持</title>
+    <link rel="stylesheet" href="serve.css">
+    <link rel="stylesheet" href="head-foot.css">
+</head>
+
+<body>
+    <div class="container">
+        <!-- 头部导航栏 -->
+        <script type="text/javascript" src="header.js"></script>
+        <br>
+        <br>
+        <br>
+        <!-- 服务与支持 -->
+        <div id="sever_box">
+            <div id="function">
+                <button onclick="show1()" id="button1">个人信息</button>
+                <button onclick="show2()" id="button2">车辆信息</button>
+                <button onclick="show3()" id="button3">充电业务</button>
+                <button onclick="show4()" id="button4">历史订单</button>
+                <button onclick="show5()" id="button5">当前订单</button>
+            </div>
+            <br>
+            <br>
+            <div class="container" id="div1">
+                <!-- 个人信息 -->
+                <table class=show_table id="div1_table1">
+                    <tr>
+                        <td class="td1">用户名：</td>
+                        <td class="td2" id="show_name"></td>
+                    </tr>
+                </table>
+            </div>
+
+            <div class="container" id="div2">
+                <!-- 车辆未注册 -->
+                <form class="show_form" id="div2_form1">
+                    <div>您还未注册车辆，请注册</div>
+                    <input type="text" id="ceDeck1" placeholder="车牌号">
+                    <input type="text" id="batterySize1" placeholder="电池大小">
+                    <button type="submit">提交</button>
+                </form>
+                <!-- 车辆已注册 -->
+                <table class=show_table id="div2_table1">
+                    <tr>
+                        <td class="td1">车牌号：</td>
+                        <td class="td2" id="show_cardeck"></td>
+                    </tr>
+                    <tr>
+                        <td class="td1">电池大小：</td>
+                        <td class="td2" id="show_batterysize"></td>
+                    </tr>
+                </table>
+            </div>
+            <div class="container" id="div3">
+                <!-- 申请充电 -->
+                <form class="show_form" id="div3_form1">
+                    <div>充电申请表</div>
+                    <input type="text" id="fast" placeholder="充电类型">
+                    <input type="text" id="Amount" placeholder="充电量">
+                    <input type="text" id="totalAmount" placeholder="汽车电池容量">
+                    <button type="submit">提交</button>
+                </form>
+            </div>
+            <div class="container" id="div4">
+                <!-- 历史订单 -->
+                <table class=show_table id=div4_table1>
+                    <tr>
+                        <th>订单号</th>
+                        <th>订单生成时间</th>
+                        <th>订单更新时间</th>
+                        <th>充电开始时间</th>
+                        <th>充电持续时间</th>
+                        <th>充电类型</th>
+                        <th>充电桩编号</th>
+                        <th>充电度数</th>
+                        <th>总费用</th>
+                        <th>订单是否结束</th>
+                    </tr>
+                </table>
+                <button onclick="pagesub()" id="div4_table1_button1">上一页</button>
+                <button onclick="pageadd()" id="div4_table1_button2">下一页</button>
+            </div>
+            <!-- 当前订单 -->
+            <div class="container" id="div5">
+                <table class=show_table id=div5_table1>
+                    <tr>
+                        <th>充电类型</th>
+                        <th>充电桩编号</th>
+                        <th>充电度数</th>
+                        <th>当前充电状态</th>
+                    </tr>
+                    <tr>
+                        <th id="th6"></th>
+                        <th id="th7"></th>
+                        <th id="th8"></th>
+                        <th id="th10"></th>
+                    </tr>
+                </table>
+                <button onclick="cannelorder()" id="div5_table1_button1">取消订单</button>
+                <button onclick="modifyorder()" id="div5_table1_button2">修改订单</button>
+            </div>
+        </div>
+    </div>
+        <!-- 尾部导航栏 -->
+        <script type="text/javascript" src="footer.js"></script>
+        <script type="text/javascript" src="serve.js"></script>
+</body>
+
+</html>

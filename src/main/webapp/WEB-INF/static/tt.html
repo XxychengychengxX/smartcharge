@@ -1,0 +1,245 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        table{
+            border-collapse: collapse;
+            width:1260px;
+            height:300px;
+            background-color: grey;
+        }
+        td{
+            width:300px;
+            height:80px;
+            border:3px solid white;
+            color:white;
+            text-align: center;
+        }
+        .bottom_img{
+            width:50px;
+            height:50px;
+        }
+        .weixin_img{
+            width:100px;
+            height:100px;
+        }
+    </style>
+</head>
+<body>
+    <table class="bottom">
+        <tr>
+            <td>咨询热线</td>
+            <td>关于我们</td>
+            <td>服务与支持</td>
+            <td>微信号</td>
+        </tr>
+        <tr>
+            <td><img src="picture/icon_call.png" class="bottom_img">18150654495</td>
+            <td>企业介绍</td>
+            <td>个人服务</td>
+            <td rowspan="2"><img src="picture/weixin.png" class="weixin_img"></td>
+        </tr>
+        <tr>
+            <td><img src="picture/icon_mail.png" class="bottom_img">1025855414@qq.com</td>
+            <td>产品介绍</td>
+            <td>商务合作</td>
+        </tr>
+    </table>
+</body>
+</html>
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>主界面</title>
+    <link rel="stylesheet" href="./home.css">
+</head>
+<body>
+    <div class="container">
+        <!-- 头部导航栏 -->
+        <nav>
+            <div>
+                <div>
+                    <ul style="margin-top: 25px">
+                        <li><img src="picture/bupt.jpg"></li>
+                        <li><a href="home.html">首页</a></li>
+                        <li><a href="about.html">关于我们</a></li>
+                        <li><a href="serve.html">服务与支持</a></li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+        <br>
+        <!--轮播区-->
+        <div id="d1" onmouseover="off()" onmouseleave="on()">
+            <!--onMouseOver="off()"鼠标悬浮停止播放-->
+            <!--onMouseOver="on()"鼠标离开开始播放-->
+            <!--d1为图片展示区域-->
+            <input type="button" value="<" onClick="noadd()" class="i1"><!--上一张按钮-->
+            <input type="button" value=">" onClick="add()" class="i2"><!--下一张按钮-->
+            <div id="d2"><!--播放顺序展示-->
+                <!--三个个顺序点-->
+                <div id="d21" onClick=""></div>
+                <div id="d22" onClick=""></div>
+                <div id="d23" onClick=""></div>
+            </div>
+        </div>
+       <!--  展示区 -->
+        <br>
+        <br>
+        <br>
+        <br>
+        <div class="container">
+            <div class="row ">
+                <div><img src="picture/content_1.png" class="img1" alt="Responsive image"></div>
+                <div><img src="picture/content_2.png" class="img2" alt="Responsive image"></div>
+                <div><img src="picture/content_3.png" class="img3" alt="Responsive image"></div>
+            </div>
+        </div>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <!-- 尾部导航栏 -->
+        <table class="bottom">
+            <tr>
+                <td>咨询热线</td>
+                <!-- <td><a href="./about.html">关于我们</a></td>
+                <td><a href="./serve.html">服务与支持</a></td> -->
+                <td>关于我们</td>
+                <td>服务与支持</td>
+                <td>微信号</td>
+            </tr>
+            <tr>
+                <td><img src="picture/icon_call.png" class="bottom_img">18150654495</td>
+                <td>企业介绍</td>
+                <td>个人服务</td>
+                <td rowspan="2"><img src="picture/weixin.png" class="weixin_img"></td>
+            </tr>
+            <tr>
+                <td><img src="picture/icon_mail.png" class="bottom_img">1025855414@qq.com</td>
+                <td>产品介绍</td>
+                <td>商务合作</td>
+            </tr>
+        </table>
+        <script type="text/javascript" src="home.js"></script>
+</body>
+</html>
+
+<nav class='top'>
+    <div>
+        <div>
+            <ul style='margin-top: 25px'>
+                <li><img src='picture/bupt.jpg'></li>
+                <li><a href='home.html' + str>首页</a></li>
+                <li><a href='about.html' + str>关于我们</a></li>
+                <li><a href='serve.html' + str>服务与支持</a></li>
+            </ul>
+        </div>
+    </div>
+</nav>
+
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>服务与支持</title>
+    <link rel="stylesheet" href="serve.css">
+    <link rel="stylesheet" href="head-foot.css">
+</head>
+
+<body>
+    <div class="container">
+        <!-- 头部导航栏 -->
+        <script type="text/javascript" src="header.js"></script>
+
+        <br>
+        <!-- 服务与支持 -->
+        <div id="div0">
+            <div id ="function">
+                <button onclick="show1()" id="button1">个人信息</button>
+                <button onclick="show2()" id="button2">车辆信息</button>
+                <button onclick="show3()" id="button3">充电业务</button>
+                <button onclick="show4()" id="button4">订单详情</button>
+                <td>
+                    
+                </td>
+                <td>
+                    
+                </td>
+                <td>
+                   
+                </td>
+                <td>
+                    
+                </td>
+            </div>
+            <br>
+            <br>
+            <br>
+            <div class="container admin" id="div1">
+                <!-- 个人信息 -->
+                <form  method="post" class="smart-green">
+                    <label><span>页面标题 :</span>
+                        <input id="title" type="text" name="title"  />
+                        <div class="error-msg"></div>
+                    </label>
+                   <!-- <label><span>邮箱 :</span>
+                        <input id="email" type="email" value="" name="email" /> &nbsp; &nbsp; &nbsp; &nbsp;
+                        <div class="error-msg"></div></label>-->
+                    <label><span>关键字 :</span>
+                        <input id="keywords" type="text" value="" name="keywords" />
+                        <div class="error-msg"></div></label>
+                    <label><span>页面描述 :</span>
+                        <textarea id="description" name="description"></textarea>
+                        <div class="error-msg"></div> &nbsp; &nbsp; </label>
+                    <div class="success-msg"></div>
+                    <label><span>&nbsp;</span><input type="submit" class="button" value="确定" /></label>
+                    <input type="hidden" name="csrfmiddlewaretoken" value="SfHkbL4feo1G00sJQtbO7TtLN4c2BUwa" />
+                </form>
+                <table id = >
+
+                </table>
+            </div>
+            <div class="container admin" id="div2">
+                <!-- 车辆注册 -->
+                <form id="caromfo">
+                    <input type="text" id="batterySize" placeholder="电池大小">
+                    <input type="text" id="ceDeck" placeholder="车牌号">
+                    <button type="submit" >提交</button>
+                </form>
+            </div>
+            <div class="container admin" id="div3">
+                <!-- 申请充电 -->
+                <form id="bill">
+                    <p id="generateTime"></p>
+                    <input type="text" id="chargeMode" placeholder="充电类型">            
+                    <button type="submit" >提交</button>
+                </form>
+            </div>
+            <div class="container admin" id="div4">
+                <!-- 查看订单 -->
+            </div>
+        </div>
+        <!-- 尾部导航栏 -->
+        <script type="text/javascript" src="footer.js"></script>
+        <script type="text/javascript" src="serve.js"></script>
+</body>
+
+</html>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tx="http://www.springframework.org/schema/tx"
+       xmlns:aop="http://www.springframework.org/schema/aop"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd http://www.springframework.org/schema/tx http://www.springframework.org/schema/tx/spring-tx.xsd http://www.springframework.org/schema/aop https://www.springframework.org/schema/aop/spring-aop.xsd">
+
+    <!--配置druid连接池-->
+    <bean class="com.alibaba.druid.pool.DruidDataSource" id="druidDataSource" >
+        <property name="url" value="jdbc:mysql://localhost:3306/smartcharge"/>
+        <property name="username" value="root"/>
+        <property name="password" value="121148"/>
+        <property name="driverClassName" value="com.mysql.cj.jdbc.Driver"/>
+    </bean>
+
+
+    <!--配置sqlsession-->
+    <bean class="org.mybatis.spring.SqlSessionFactoryBean">
+        <property name="dataSource" ref="druidDataSource"/>
+        <!--配置mybatis配置文件-->
+        <property name="configLocation" value="classpath:/static/mybatis-config.xml"/>
+        <!-- 控制包扫描 -->
+        <property name="typeAliasesPackage" value="com.project.pojo"/>
+    </bean>
+
+    <!--    配置mapper扫描器-->
+    <bean class="org.mybatis.spring.mapper.MapperScannerConfigurer" id="mapperScannerConfigurer">
+        <property name="basePackage" value="com.project.smartcharge.mapper"/>
+    </bean>
+
+
+
+
+
+
+    <!-- <aop:aspectj-autoproxy  proxy-target-class="true"/> 开启自动代理之后，凡事带有@Aspect注解的bean都会生成代理对象。
+    proxy-target-class="true" 表示采用cglib动态代理。
+    proxy-target-class="false" 表示采用jdk动态代理。默认值是false。即使写成false，当没有接口的时候，也会自动选择cglib生成代理类。 -->
+    <!-- 开启自动代理 -->
+
+
+</beans>

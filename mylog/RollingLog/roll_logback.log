@@ -1,0 +1,858 @@
+2023-06-06 00:07:02 [main] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - 检测到服务关闭,线程销毁中
+2023-06-06 00:07:27 [RMI TCP Connection(2)-127.0.0.1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - 检测到服务开启,线程启动中。。。。。
+2023-06-06 00:07:27 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 即将开始监测队列 fastModeBlockingDeque
+2023-06-06 00:07:27 [pool-1-thread-2] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-2 即将开始监测队列 lowModeBlockingDeque
+2023-06-06 00:07:28 [pool-1-thread-2] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-2查询了充电桩表单一次
+2023-06-06 00:07:28 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1查询了充电桩表单一次
+2023-06-06 00:07:28 [pool-1-thread-2] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-2即将查询充电队列
+2023-06-06 00:07:28 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1即将查询充电队列
+2023-06-06 00:13:03 [main] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - 检测到服务关闭,线程销毁中
+2023-06-06 00:13:26 [RMI TCP Connection(2)-127.0.0.1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - 检测到服务开启,线程启动中。。。。。
+2023-06-06 00:13:26 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 即将开始监测队列 fastModeBlockingDeque
+2023-06-06 00:13:26 [pool-1-thread-2] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-2 即将开始监测队列 lowModeBlockingDeque
+2023-06-06 00:13:27 [pool-1-thread-2] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-2查询了充电桩表单一次
+2023-06-06 00:13:27 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1查询了充电桩表单一次
+2023-06-06 00:13:27 [pool-1-thread-2] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-2即将查询充电队列
+2023-06-06 00:13:27 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1即将查询充电队列
+2023-06-06 01:40:23 [main] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - 检测到服务关闭,线程销毁中
+2023-06-07 14:45:29 [Catalina-utility-2] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - 检测到服务开启,线程启动中。。。。。
+2023-06-07 14:45:29 [pool-3-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-3-thread-1 即将开始监测队列 fastModeBlockingDeque
+2023-06-07 14:45:29 [pool-3-thread-2] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-3-thread-2 即将开始监测队列 lowModeBlockingDeque
+2023-06-07 14:45:30 [pool-3-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-3-thread-1 查询了充电桩空闲表单一次
+2023-06-07 14:45:30 [pool-3-thread-2] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-3-thread-2 查询了充电桩空闲表单一次
+2023-06-07 14:45:30 [pool-3-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-3-thread-1 即将查询空闲充电桩队列
+2023-06-07 14:45:30 [pool-3-thread-2] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-3-thread-2 即将查询空闲充电桩队列
+2023-06-07 14:45:30 [pool-3-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-3-thread-1充电桩等待区为空，直接从等待队列调度
+2023-06-07 14:45:30 [pool-3-thread-2] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-3-thread-2充电桩等待区为空，直接从等待队列调度
+2023-06-07 14:46:04 [Catalina-utility-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - 检测到服务关闭,线程销毁中
+2023-06-07 14:46:13 [Catalina-utility-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - 检测到服务开启,线程启动中。。。。。
+2023-06-07 14:46:13 [pool-5-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-5-thread-1 即将开始监测队列 fastModeBlockingDeque
+2023-06-07 14:46:13 [pool-5-thread-2] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-5-thread-2 即将开始监测队列 lowModeBlockingDeque
+2023-06-07 14:46:14 [pool-5-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-5-thread-1 查询了充电桩空闲表单一次
+2023-06-07 14:46:14 [pool-5-thread-2] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-5-thread-2 查询了充电桩空闲表单一次
+2023-06-07 14:46:14 [pool-5-thread-2] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-5-thread-2 即将查询空闲充电桩队列
+2023-06-07 14:46:14 [pool-5-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-5-thread-1 即将查询空闲充电桩队列
+2023-06-07 14:46:14 [pool-5-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-5-thread-1充电桩等待区为空，直接从等待队列调度
+2023-06-07 14:46:14 [pool-5-thread-2] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-5-thread-2充电桩等待区为空，直接从等待队列调度
+2023-06-07 14:48:52 [main] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - 检测到服务关闭,线程销毁中
+2023-06-07 14:49:12 [RMI TCP Connection(2)-127.0.0.1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - 检测到服务开启,线程启动中。。。。。
+2023-06-07 14:49:12 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 即将开始监测队列 fastModeBlockingDeque
+2023-06-07 14:49:12 [pool-1-thread-2] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-2 即将开始监测队列 lowModeBlockingDeque
+2023-06-07 14:49:13 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 查询了充电桩空闲表单一次
+2023-06-07 14:49:13 [pool-1-thread-2] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-2 查询了充电桩空闲表单一次
+2023-06-07 14:49:13 [pool-1-thread-2] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-2 即将查询空闲充电桩队列
+2023-06-07 14:49:13 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 即将查询空闲充电桩队列
+2023-06-07 14:49:13 [pool-1-thread-2] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-2充电桩等待区为空，直接从等待队列调度
+2023-06-07 14:49:13 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1充电桩等待区为空，直接从等待队列调度
+2023-06-07 14:50:40 [http-nio-9988-exec-1] ERROR c.p.smartcharge.system.aspect.ExceptionAspect - Cannot invoke "java.lang.Integer.intValue()" because the return value of "com.project.smartcharge.pojo.Bill.getDeviceID()" is null
+2023-06-07 14:51:06 [http-nio-9988-exec-1] ERROR c.p.smartcharge.system.aspect.ExceptionAspect - Cannot invoke "java.lang.Integer.intValue()" because the return value of "com.project.smartcharge.pojo.Bill.getDeviceID()" is null
+2023-06-07 14:53:27 [main] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - 检测到服务关闭,线程销毁中
+2023-06-07 14:53:52 [RMI TCP Connection(2)-127.0.0.1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - 检测到服务开启,线程启动中。。。。。
+2023-06-07 14:53:52 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 即将开始监测队列 fastModeBlockingDeque
+2023-06-07 14:53:52 [pool-1-thread-2] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-2 即将开始监测队列 lowModeBlockingDeque
+2023-06-07 14:53:53 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 查询了充电桩空闲表单一次
+2023-06-07 14:53:53 [pool-1-thread-2] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-2 查询了充电桩空闲表单一次
+2023-06-07 14:53:53 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 即将查询空闲充电桩队列
+2023-06-07 14:53:53 [pool-1-thread-2] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-2 即将查询空闲充电桩队列
+2023-06-07 14:53:53 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1充电桩等待区为空，直接从等待队列调度
+2023-06-07 14:53:53 [pool-1-thread-2] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-2充电桩等待区为空，直接从等待队列调度
+2023-06-07 14:54:51 [http-nio-9988-exec-3] ERROR c.p.smartcharge.system.aspect.ExceptionAspect - io.jsonwebtoken.MalformedJwtException: JWT strings must contain exactly 2 period characters. Found: 1
+2023-06-07 14:54:55 [http-nio-9988-exec-6] ERROR c.p.smartcharge.system.aspect.ExceptionAspect - io.jsonwebtoken.MalformedJwtException: JWT strings must contain exactly 2 period characters. Found: 1
+2023-06-07 14:55:00 [http-nio-9988-exec-7] ERROR c.p.smartcharge.system.aspect.ExceptionAspect - JWT strings must contain exactly 2 period characters. Found: 1
+2023-06-07 14:55:01 [http-nio-9988-exec-9] ERROR c.p.smartcharge.system.aspect.ExceptionAspect - JWT strings must contain exactly 2 period characters. Found: 1
+2023-06-07 14:55:01 [http-nio-9988-exec-10] ERROR c.p.smartcharge.system.aspect.ExceptionAspect - JWT strings must contain exactly 2 period characters. Found: 1
+2023-06-07 14:55:03 [http-nio-9988-exec-6] ERROR c.p.smartcharge.system.aspect.ExceptionAspect - io.jsonwebtoken.MalformedJwtException: JWT strings must contain exactly 2 period characters. Found: 1
+2023-06-07 14:55:17 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1拿到订单 23 开始处理
+2023-06-07 14:55:17 [pool-1-thread-3] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-3开始处理预订单 id 为 23 的订单请求
+2023-06-07 14:55:17 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 查询了充电桩空闲表单一次
+2023-06-07 14:55:17 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 即将查询空闲充电桩队列
+2023-06-07 14:55:17 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1充电桩等待区为空，直接从等待队列调度
+2023-06-07 14:55:19 [http-nio-9988-exec-9] ERROR c.p.smartcharge.system.aspect.ExceptionAspect - Cannot invoke "java.lang.Integer.intValue()" because the return value of "com.project.smartcharge.pojo.Bill.getDeviceID()" is null
+2023-06-07 14:55:20 [http-nio-9988-exec-10] ERROR c.p.smartcharge.system.aspect.ExceptionAspect - Cannot invoke "java.lang.Integer.intValue()" because the return value of "com.project.smartcharge.pojo.Bill.getDeviceID()" is null
+2023-06-07 14:56:48 [main] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - 检测到服务关闭,线程销毁中
+2023-06-07 14:57:25 [RMI TCP Connection(2)-127.0.0.1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - 检测到服务开启,线程启动中。。。。。
+2023-06-07 14:57:25 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 即将开始监测队列 fastModeBlockingDeque
+2023-06-07 14:57:25 [pool-1-thread-2] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-2 即将开始监测队列 lowModeBlockingDeque
+2023-06-07 14:57:38 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 查询了充电桩空闲表单一次
+2023-06-07 14:57:38 [pool-1-thread-2] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-2 查询了充电桩空闲表单一次
+2023-06-07 14:57:38 [pool-1-thread-2] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-2 即将查询空闲充电桩队列
+2023-06-07 14:57:38 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 即将查询空闲充电桩队列
+2023-06-07 14:57:38 [pool-1-thread-2] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-2充电桩等待区为空，直接从等待队列调度
+2023-06-07 14:57:38 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1充电桩等待区为空，直接从等待队列调度
+2023-06-07 14:57:47 [http-nio-9988-exec-5] ERROR c.p.smartcharge.system.aspect.ExceptionAspect - io.jsonwebtoken.MalformedJwtException: JWT strings must contain exactly 2 period characters. Found: 1
+2023-06-07 14:59:11 [main] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - 检测到服务关闭,线程销毁中
+2023-06-07 14:59:41 [RMI TCP Connection(2)-127.0.0.1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - 检测到服务开启,线程启动中。。。。。
+2023-06-07 14:59:41 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 即将开始监测队列 fastModeBlockingDeque
+2023-06-07 14:59:41 [pool-1-thread-2] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-2 即将开始监测队列 lowModeBlockingDeque
+2023-06-07 14:59:42 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 查询了充电桩空闲表单一次
+2023-06-07 14:59:42 [pool-1-thread-2] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-2 查询了充电桩空闲表单一次
+2023-06-07 14:59:42 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 即将查询空闲充电桩队列
+2023-06-07 14:59:42 [pool-1-thread-2] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-2 即将查询空闲充电桩队列
+2023-06-07 14:59:42 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1充电桩等待区为空，直接从等待队列调度
+2023-06-07 14:59:42 [pool-1-thread-2] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-2充电桩等待区为空，直接从等待队列调度
+2023-06-07 15:00:08 [RMI TCP Connection(2)-127.0.0.1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - 检测到服务开启,线程启动中。。。。。
+2023-06-07 15:00:08 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 即将开始监测队列 fastModeBlockingDeque
+2023-06-07 15:00:08 [pool-1-thread-2] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-2 即将开始监测队列 lowModeBlockingDeque
+2023-06-07 15:00:09 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 查询了充电桩空闲表单一次
+2023-06-07 15:00:09 [pool-1-thread-2] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-2 查询了充电桩空闲表单一次
+2023-06-07 15:00:09 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 即将查询空闲充电桩队列
+2023-06-07 15:00:09 [pool-1-thread-2] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-2 即将查询空闲充电桩队列
+2023-06-07 15:00:09 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1充电桩等待区为空，直接从等待队列调度
+2023-06-07 15:00:09 [pool-1-thread-2] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-2充电桩等待区为空，直接从等待队列调度
+2023-06-07 15:03:40 [http-nio-9988-exec-2] ERROR c.p.smartcharge.system.aspect.ExceptionAspect - Cannot invoke "java.lang.Integer.intValue()" because the return value of "com.project.smartcharge.pojo.Bill.getDeviceID()" is null
+2023-06-07 15:03:40 [main] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - 检测到服务关闭,线程销毁中
+2023-06-07 15:04:11 [RMI TCP Connection(2)-127.0.0.1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - 检测到服务开启,线程启动中。。。。。
+2023-06-07 15:04:11 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 即将开始监测队列 fastModeBlockingDeque
+2023-06-07 15:04:11 [pool-1-thread-2] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-2 即将开始监测队列 lowModeBlockingDeque
+2023-06-07 15:04:12 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 查询了充电桩空闲表单一次
+2023-06-07 15:04:12 [pool-1-thread-2] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-2 查询了充电桩空闲表单一次
+2023-06-07 15:04:12 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 即将查询空闲充电桩队列
+2023-06-07 15:04:12 [pool-1-thread-2] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-2 即将查询空闲充电桩队列
+2023-06-07 15:04:12 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1充电桩等待区为空，直接从等待队列调度
+2023-06-07 15:04:12 [pool-1-thread-2] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-2充电桩等待区为空，直接从等待队列调度
+2023-06-07 15:05:19 [http-nio-9988-exec-8] ERROR c.p.smartcharge.system.aspect.ExceptionAspect - Cannot invoke "java.lang.Integer.intValue()" because the return value of "com.project.smartcharge.pojo.Bill.getDeviceID()" is null
+2023-06-07 15:06:34 [http-nio-9988-exec-2] ERROR c.p.smartcharge.system.aspect.ExceptionAspect - io.jsonwebtoken.MalformedJwtException: JWT strings must contain exactly 2 period characters. Found: 1
+2023-06-07 15:06:35 [http-nio-9988-exec-4] ERROR c.p.smartcharge.system.aspect.ExceptionAspect - io.jsonwebtoken.MalformedJwtException: JWT strings must contain exactly 2 period characters. Found: 1
+2023-06-07 15:07:12 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1拿到订单 23 开始处理
+2023-06-07 15:07:12 [pool-1-thread-3] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-3开始处理预订单 id 为 23 的订单请求
+2023-06-07 15:07:12 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 查询了充电桩空闲表单一次
+2023-06-07 15:07:12 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 即将查询空闲充电桩队列
+2023-06-07 15:07:12 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1充电桩等待区为空，直接从等待队列调度
+2023-06-07 15:07:15 [http-nio-9988-exec-6] ERROR c.p.smartcharge.system.aspect.ExceptionAspect - Cannot invoke "java.lang.Integer.intValue()" because the return value of "com.project.smartcharge.pojo.Bill.getDeviceID()" is null
+2023-06-07 15:07:42 [main] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - 检测到服务关闭,线程销毁中
+2023-06-07 15:10:18 [RMI TCP Connection(2)-127.0.0.1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - 检测到服务开启,线程启动中。。。。。
+2023-06-07 15:10:18 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 即将开始监测队列 fastModeBlockingDeque
+2023-06-07 15:10:18 [pool-1-thread-2] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-2 即将开始监测队列 lowModeBlockingDeque
+2023-06-07 15:10:19 [pool-1-thread-2] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-2 查询了充电桩空闲表单一次
+2023-06-07 15:10:19 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 查询了充电桩空闲表单一次
+2023-06-07 15:10:19 [pool-1-thread-2] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-2 即将查询空闲充电桩队列
+2023-06-07 15:10:19 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 即将查询空闲充电桩队列
+2023-06-07 15:10:19 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1充电桩等待区为空，直接从等待队列调度
+2023-06-07 15:10:19 [pool-1-thread-2] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-2充电桩等待区为空，直接从等待队列调度
+2023-06-07 15:10:54 [pool-1-thread-2] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-2拿到订单 23 开始处理
+2023-06-07 15:10:54 [pool-1-thread-3] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-3开始处理预订单 id 为 23 的订单请求
+2023-06-07 15:10:54 [pool-1-thread-2] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-2 查询了充电桩空闲表单一次
+2023-06-07 15:10:54 [pool-1-thread-2] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-2 即将查询空闲充电桩队列
+2023-06-07 15:10:54 [pool-1-thread-2] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-2充电桩等待区为空，直接从等待队列调度
+2023-06-07 15:10:58 [http-nio-9988-exec-10] ERROR c.p.smartcharge.system.aspect.ExceptionAspect - Cannot invoke "java.lang.Integer.intValue()" because the return value of "com.project.smartcharge.pojo.Carinfo.getDeviceID()" is null
+2023-06-07 15:12:00 [http-nio-9988-exec-8] ERROR c.p.smartcharge.system.aspect.ExceptionAspect - Cannot invoke "java.lang.Integer.intValue()" because "totalAmount" is null
+2023-06-07 15:12:03 [http-nio-9988-exec-10] ERROR c.p.smartcharge.system.aspect.ExceptionAspect - Cannot invoke "java.lang.Integer.intValue()" because "totalAmount" is null
+2023-06-07 15:12:14 [http-nio-9988-exec-2] ERROR c.p.smartcharge.system.aspect.ExceptionAspect - Cannot invoke "java.lang.Integer.intValue()" because "totalAmount" is null
+2023-06-07 15:12:19 [http-nio-9988-exec-4] ERROR c.p.smartcharge.system.aspect.ExceptionAspect - Cannot invoke "java.lang.Integer.intValue()" because the return value of "com.project.smartcharge.pojo.Carinfo.getDeviceID()" is null
+2023-06-07 15:12:19 [http-nio-9988-exec-6] ERROR c.p.smartcharge.system.aspect.ExceptionAspect - Cannot invoke "java.lang.Integer.intValue()" because the return value of "com.project.smartcharge.pojo.Carinfo.getDeviceID()" is null
+2023-06-07 15:13:31 [main] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - 检测到服务关闭,线程销毁中
+2023-06-07 15:30:17 [RMI TCP Connection(3)-127.0.0.1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - 检测到服务开启,线程启动中。。。。。
+2023-06-07 15:30:17 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 即将开始监测队列 fastModeBlockingDeque
+2023-06-07 15:30:17 [pool-1-thread-2] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-2 即将开始监测队列 lowModeBlockingDeque
+2023-06-07 15:30:19 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 查询了充电桩空闲表单一次
+2023-06-07 15:30:19 [pool-1-thread-2] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-2 查询了充电桩空闲表单一次
+2023-06-07 15:30:19 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 即将查询空闲充电桩队列
+2023-06-07 15:30:19 [pool-1-thread-2] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-2 即将查询空闲充电桩队列
+2023-06-07 15:30:19 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1充电桩等待区为空，直接从等待队列调度
+2023-06-07 15:30:19 [pool-1-thread-2] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-2充电桩等待区为空，直接从等待队列调度
+2023-06-07 15:41:16 [main] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - 检测到服务关闭,线程销毁中
+2023-06-07 15:42:09 [RMI TCP Connection(3)-127.0.0.1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - 检测到服务开启,线程启动中。。。。。
+2023-06-07 15:42:09 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 即将开始监测队列 fastModeBlockingDeque
+2023-06-07 15:42:09 [pool-1-thread-2] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-2 即将开始监测队列 lowModeBlockingDeque
+2023-06-07 15:42:11 [pool-1-thread-2] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-2 查询了充电桩空闲表单一次
+2023-06-07 15:42:11 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 查询了充电桩空闲表单一次
+2023-06-07 15:42:11 [pool-1-thread-2] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-2 调取订单队列
+2023-06-07 15:42:11 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 调取订单队列
+2023-06-07 15:42:38 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1拿到订单 23 开始处理
+2023-06-07 15:42:38 [pool-1-thread-3] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-3开始处理预订单 id 为 23 的订单请求
+2023-06-07 15:42:38 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 查询了充电桩空闲表单一次
+2023-06-07 15:42:38 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 调取订单队列
+2023-06-07 15:42:46 [http-nio-9988-exec-5] ERROR c.p.smartcharge.system.aspect.ExceptionAspect - Cannot invoke "java.lang.Integer.intValue()" because the return value of "com.project.smartcharge.pojo.Carinfo.getDeviceID()" is null
+2023-06-07 15:42:46 [http-nio-9988-exec-7] ERROR c.p.smartcharge.system.aspect.ExceptionAspect - Cannot invoke "java.lang.Integer.intValue()" because the return value of "com.project.smartcharge.pojo.Carinfo.getDeviceID()" is null
+2023-06-07 15:42:47 [http-nio-9988-exec-8] ERROR c.p.smartcharge.system.aspect.ExceptionAspect - Cannot invoke "java.lang.Integer.intValue()" because "totalAmount" is null
+2023-06-07 15:42:52 [http-nio-9988-exec-1] ERROR c.p.smartcharge.system.aspect.ExceptionAspect - Cannot invoke "java.lang.Integer.intValue()" because the return value of "com.project.smartcharge.pojo.Carinfo.getDeviceID()" is null
+2023-06-07 15:42:54 [http-nio-9988-exec-3] ERROR c.p.smartcharge.system.aspect.ExceptionAspect - Cannot invoke "java.lang.Integer.intValue()" because "totalAmount" is null
+2023-06-07 15:43:04 [http-nio-9988-exec-10] INFO  c.project.smartcharge.system.aspect.DeviceAspect - 管理员 wangchen 开机了编号为 5 的设备
+2023-06-07 15:45:33 [http-nio-9988-exec-6] ERROR c.p.smartcharge.system.aspect.ExceptionAspect - Cannot invoke "java.lang.Integer.intValue()" because the return value of "com.project.smartcharge.pojo.Carinfo.getDeviceID()" is null
+2023-06-07 15:45:34 [http-nio-9988-exec-4] ERROR c.p.smartcharge.system.aspect.ExceptionAspect - Cannot invoke "java.lang.Integer.intValue()" because "totalAmount" is null
+2023-06-07 15:50:17 [RMI TCP Connection(3)-127.0.0.1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - 检测到服务开启,线程启动中。。。。。
+2023-06-07 15:50:17 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 即将开始监测队列 fastModeBlockingDeque
+2023-06-07 15:50:17 [pool-1-thread-2] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-2 即将开始监测队列 lowModeBlockingDeque
+2023-06-07 15:50:20 [pool-1-thread-2] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-2 查询了充电桩空闲表单一次
+2023-06-07 15:50:20 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 查询了充电桩空闲表单一次
+2023-06-07 15:50:20 [pool-1-thread-2] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-2 调取订单队列
+2023-06-07 15:50:20 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 调取订单队列
+2023-06-07 15:50:54 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1拿到订单 24 开始处理
+2023-06-07 15:50:54 [pool-1-thread-3] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-3开始处理预订单 id 为 24 的订单请求
+2023-06-07 15:50:54 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 查询了充电桩空闲表单一次
+2023-06-07 15:50:54 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 调取订单队列
+2023-06-07 15:50:57 [http-nio-9988-exec-1] ERROR c.p.smartcharge.system.aspect.ExceptionAspect - Cannot invoke "java.lang.Integer.intValue()" because "totalAmount" is null
+2023-06-07 15:53:14 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1拿到订单 25 开始处理
+2023-06-07 15:53:14 [pool-1-thread-5] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-5开始处理预订单 id 为 25 的订单请求
+2023-06-07 15:53:14 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 查询了充电桩空闲表单一次
+2023-06-07 15:53:14 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 调取订单队列
+2023-06-07 15:55:22 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1拿到订单 26 开始处理
+2023-06-07 15:55:22 [pool-1-thread-6] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-6开始处理预订单 id 为 26 的订单请求
+2023-06-07 15:55:22 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 查询了充电桩空闲表单一次
+2023-06-07 15:55:22 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 调取订单队列
+2023-06-07 15:55:26 [http-nio-9988-exec-2] ERROR c.p.smartcharge.system.aspect.ExceptionAspect - Cannot invoke "java.lang.Integer.intValue()" because "totalAmount" is null
+2023-06-07 15:56:03 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1拿到订单 27 开始处理
+2023-06-07 15:56:03 [pool-1-thread-8] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-8开始处理预订单 id 为 27 的订单请求
+2023-06-07 15:56:03 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 查询了充电桩空闲表单一次
+2023-06-07 15:56:03 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 调取订单队列
+2023-06-07 15:56:05 [http-nio-9988-exec-4] ERROR c.p.smartcharge.system.aspect.ExceptionAspect - Cannot invoke "java.lang.Integer.intValue()" because "totalAmount" is null
+2023-06-07 15:56:46 [http-nio-9988-exec-10] ERROR c.p.smartcharge.system.aspect.ExceptionAspect - Cannot invoke "java.lang.Integer.intValue()" because "totalAmount" is null
+2023-06-07 15:58:59 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1拿到订单 28 开始处理
+2023-06-07 15:58:59 [pool-1-thread-10] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-10开始处理预订单 id 为 28 的订单请求
+2023-06-07 15:58:59 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 查询了充电桩空闲表单一次
+2023-06-07 15:58:59 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 调取订单队列
+2023-06-07 16:00:32 [http-nio-9988-exec-8] ERROR c.p.smartcharge.system.aspect.ExceptionAspect - Cannot invoke "com.project.smartcharge.pojo.Bill.getBillID()" because "bill" is null
+2023-06-07 16:00:57 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1拿到订单 29 开始处理
+2023-06-07 16:00:57 [pool-1-thread-4] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-4开始处理预订单 id 为 29 的订单请求
+2023-06-07 16:00:57 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 查询了充电桩空闲表单一次
+2023-06-07 16:00:57 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 调取订单队列
+2023-06-07 16:04:42 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1拿到订单 30 开始处理
+2023-06-07 16:04:42 [pool-1-thread-5] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-5开始处理预订单 id 为 30 的订单请求
+2023-06-07 16:04:42 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 查询了充电桩空闲表单一次
+2023-06-07 16:04:42 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 调取订单队列
+2023-06-07 16:07:37 [http-nio-9988-exec-6] ERROR c.p.smartcharge.system.aspect.ExceptionAspect - Cannot invoke "java.lang.Integer.intValue()" because "totalAmount" is null
+2023-06-07 16:07:38 [http-nio-9988-exec-8] ERROR c.p.smartcharge.system.aspect.ExceptionAspect - Cannot invoke "java.lang.Integer.intValue()" because "totalAmount" is null
+2023-06-07 16:07:43 [http-nio-9988-exec-10] ERROR c.p.smartcharge.system.aspect.ExceptionAspect - Cannot invoke "java.lang.Integer.intValue()" because "totalAmount" is null
+2023-06-07 16:07:43 [http-nio-9988-exec-2] ERROR c.p.smartcharge.system.aspect.ExceptionAspect - Cannot invoke "java.lang.Integer.intValue()" because "totalAmount" is null
+2023-06-07 16:10:32 [main] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - 检测到服务关闭,线程销毁中
+2023-06-07 16:10:54 [RMI TCP Connection(3)-127.0.0.1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - 检测到服务开启,线程启动中。。。。。
+2023-06-07 16:10:54 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 即将开始监测队列 fastModeBlockingDeque
+2023-06-07 16:10:54 [pool-1-thread-2] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-2 即将开始监测队列 lowModeBlockingDeque
+2023-06-07 16:10:55 [pool-1-thread-2] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-2 查询了充电桩空闲表单一次
+2023-06-07 16:10:55 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 查询了充电桩空闲表单一次
+2023-06-07 16:10:55 [pool-1-thread-2] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-2 调取订单队列
+2023-06-07 16:10:55 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 调取订单队列
+2023-06-07 16:11:42 [main] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - 检测到服务关闭,线程销毁中
+2023-06-07 16:12:03 [RMI TCP Connection(3)-127.0.0.1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - 检测到服务开启,线程启动中。。。。。
+2023-06-07 16:12:03 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 即将开始监测队列 fastModeBlockingDeque
+2023-06-07 16:12:03 [pool-1-thread-2] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-2 即将开始监测队列 lowModeBlockingDeque
+2023-06-07 16:12:04 [pool-1-thread-2] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-2 查询了充电桩空闲表单一次
+2023-06-07 16:12:04 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 查询了充电桩空闲表单一次
+2023-06-07 16:12:04 [pool-1-thread-2] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-2 调取订单队列
+2023-06-07 16:12:04 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 调取订单队列
+2023-06-07 16:13:34 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1拿到订单 29 开始处理
+2023-06-07 16:13:34 [pool-1-thread-3] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-3开始处理预订单 id 为 29 的订单请求
+2023-06-07 16:13:36 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 查询了充电桩空闲表单一次
+2023-06-07 16:13:36 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 调取订单队列
+2023-06-07 16:18:11 [main] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - 检测到服务关闭,线程销毁中
+2023-06-07 16:18:33 [RMI TCP Connection(2)-127.0.0.1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - 检测到服务开启,线程启动中。。。。。
+2023-06-07 16:18:33 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 即将开始监测队列 fastModeBlockingDeque
+2023-06-07 16:18:33 [pool-1-thread-2] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-2 即将开始监测队列 lowModeBlockingDeque
+2023-06-07 16:18:34 [pool-1-thread-2] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-2 查询了充电桩空闲表单一次
+2023-06-07 16:18:34 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 查询了充电桩空闲表单一次
+2023-06-07 16:18:34 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 调取订单队列
+2023-06-07 16:18:34 [pool-1-thread-2] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-2 调取订单队列
+2023-06-07 16:20:12 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1拿到订单 29 开始处理
+2023-06-07 16:20:12 [pool-1-thread-3] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-3开始处理预订单 id 为 29 的订单请求
+2023-06-07 16:20:14 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 查询了充电桩空闲表单一次
+2023-06-07 16:20:14 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 调取订单队列
+2023-06-07 16:27:22 [main] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - 检测到服务关闭,线程销毁中
+2023-06-07 16:27:55 [RMI TCP Connection(3)-127.0.0.1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - 检测到服务开启,线程启动中。。。。。
+2023-06-07 16:27:55 [pool-1-thread-2] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-2 即将开始监测队列 lowModeBlockingDeque
+2023-06-07 16:27:55 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 即将开始监测队列 fastModeBlockingDeque
+2023-06-07 16:27:56 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 查询了充电桩空闲表单一次
+2023-06-07 16:27:56 [pool-1-thread-2] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-2 查询了充电桩空闲表单一次
+2023-06-07 16:27:56 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 调取订单队列
+2023-06-07 16:27:56 [pool-1-thread-2] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-2 调取订单队列
+2023-06-07 16:28:14 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1拿到订单 30 开始处理
+2023-06-07 16:28:14 [pool-1-thread-3] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-3开始处理预订单 id 为 30 的订单请求
+2023-06-07 16:28:14 [pool-1-thread-3] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-3拿到了订单： Bill [Hash = 1419779420, billID=30, chargeMod=true, created_at=Wed Jun 07 16:28:11 CST 2023, deviceID=null, chargeDuration=00:20, chargeStartTime=null, chargeEndTime=null, updated_at=Wed Jun 07 16:28:11 CST 2023, chargeFee=null, serviceFee=null, userID=2, totalFee=null, chargeAmount=10, isDone=false]
+2023-06-07 16:28:14 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 查询了充电桩空闲表单一次
+2023-06-07 16:28:14 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 调取订单队列
+2023-06-07 16:28:14 [pool-1-thread-3] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-3拿到了设备： Device [Hash = 287557491, deviceID=1, workingStatu=true, chargeStatu=false, chargeTimeCount=10:03, chargeTimesCount=70, chargeFeeCount=37.1, deviceType=true, chargeRate=30, created_at=Tue Jun 06 22:54:26 CST 2023, updated_at=Wed Jun 07 15:06:01 CST 2023]
+2023-06-07 16:28:14 [pool-1-thread-3] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-3拿到了汽车： Carinfo [Hash = 1226125494, carID=2, deviceID=null, userID=2, chargeMode=false, batterySize=60.0, carDeck=闽A12345, carRank=1, waitingStatu=0]
+2023-06-07 16:28:14 [pool-1-thread-3] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-3 拿到当前系统时间为 2023-06-07 16:28
+2023-06-07 16:28:21 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1拿到订单 31 开始处理
+2023-06-07 16:28:21 [pool-1-thread-4] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-4开始处理预订单 id 为 31 的订单请求
+2023-06-07 16:28:21 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 查询了充电桩空闲表单一次
+2023-06-07 16:28:21 [pool-1-thread-4] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-4拿到了订单： Bill [Hash = 1428923188, billID=31, chargeMod=true, created_at=Wed Jun 07 16:28:18 CST 2023, deviceID=null, chargeDuration=00:20, chargeStartTime=null, chargeEndTime=null, updated_at=Wed Jun 07 16:28:18 CST 2023, chargeFee=null, serviceFee=null, userID=3, totalFee=null, chargeAmount=10, isDone=false]
+2023-06-07 16:28:21 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 调取订单队列
+2023-06-07 16:28:21 [pool-1-thread-4] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-4拿到了设备： Device [Hash = 889478267, deviceID=1, workingStatu=true, chargeStatu=true, chargeTimeCount=10:03, chargeTimesCount=70, chargeFeeCount=37.1, deviceType=true, chargeRate=30, created_at=Tue Jun 06 22:54:26 CST 2023, updated_at=Wed Jun 07 15:06:01 CST 2023]
+2023-06-07 16:28:21 [pool-1-thread-4] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-4拿到了汽车： Carinfo [Hash = 826934734, carID=3, deviceID=null, userID=3, chargeMode=false, batterySize=60.0, carDeck=闽A24682, carRank=2, waitingStatu=0]
+2023-06-07 16:28:21 [pool-1-thread-4] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-4 拿到当前系统时间为 2023-06-07 16:28
+2023-06-07 16:30:09 [main] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - 检测到服务关闭,线程销毁中
+2023-06-07 16:31:31 [RMI TCP Connection(2)-127.0.0.1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - 检测到服务开启,线程启动中。。。。。
+2023-06-07 16:31:31 [pool-1-thread-2] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-2 即将开始监测队列 lowModeBlockingDeque
+2023-06-07 16:31:31 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 即将开始监测队列 fastModeBlockingDeque
+2023-06-07 16:31:33 [pool-1-thread-2] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-2 查询了充电桩空闲表单一次
+2023-06-07 16:31:33 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 查询了充电桩空闲表单一次
+2023-06-07 16:31:33 [pool-1-thread-2] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-2 调取订单队列
+2023-06-07 16:31:33 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 调取订单队列
+2023-06-07 16:32:01 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1拿到订单 32 开始处理
+2023-06-07 16:32:01 [pool-1-thread-3] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-3开始处理预订单 id 为 32 的订单请求
+2023-06-07 16:32:03 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 查询了充电桩空闲表单一次
+2023-06-07 16:32:03 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 调取订单队列
+2023-06-07 16:32:15 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1拿到订单 33 开始处理
+2023-06-07 16:32:15 [pool-1-thread-5] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-5开始处理预订单 id 为 33 的订单请求
+2023-06-07 16:32:17 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 查询了充电桩空闲表单一次
+2023-06-07 16:32:17 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 调取订单队列
+2023-06-07 16:34:34 [main] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - 检测到服务关闭,线程销毁中
+2023-06-07 16:34:56 [RMI TCP Connection(3)-127.0.0.1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - 检测到服务开启,线程启动中。。。。。
+2023-06-07 16:34:56 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 即将开始监测队列 fastModeBlockingDeque
+2023-06-07 16:34:56 [pool-1-thread-2] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-2 即将开始监测队列 lowModeBlockingDeque
+2023-06-07 16:34:57 [pool-1-thread-2] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-2 查询了充电桩空闲表单一次
+2023-06-07 16:34:57 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 查询了充电桩空闲表单一次
+2023-06-07 16:34:57 [pool-1-thread-2] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-2 调取订单队列
+2023-06-07 16:34:57 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 调取订单队列
+2023-06-07 16:37:05 [main] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - 检测到服务关闭,线程销毁中
+2023-06-07 16:37:31 [RMI TCP Connection(3)-127.0.0.1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - 检测到服务开启,线程启动中。。。。。
+2023-06-07 16:37:31 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 即将开始监测队列 fastModeBlockingDeque
+2023-06-07 16:37:31 [pool-1-thread-2] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-2 即将开始监测队列 lowModeBlockingDeque
+2023-06-07 16:37:32 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 查询了充电桩空闲表单一次
+2023-06-07 16:37:32 [pool-1-thread-2] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-2 查询了充电桩空闲表单一次
+2023-06-07 16:37:32 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 即将调取订单队列
+2023-06-07 16:37:32 [pool-1-thread-2] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-2 即将调取订单队列
+2023-06-07 16:37:51 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1拿到订单 34 开始处理
+2023-06-07 16:37:51 [pool-1-thread-3] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-3开始处理预订单 id 为 34 的订单请求
+2023-06-07 16:37:53 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 查询了充电桩空闲表单一次
+2023-06-07 16:37:53 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 即将调取订单队列
+2023-06-07 16:38:38 [main] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - 检测到服务关闭,线程销毁中
+2023-06-07 16:38:57 [RMI TCP Connection(2)-127.0.0.1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - 检测到服务开启,线程启动中。。。。。
+2023-06-07 16:38:57 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 即将开始监测队列 fastModeBlockingDeque
+2023-06-07 16:38:57 [pool-1-thread-2] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-2 即将开始监测队列 lowModeBlockingDeque
+2023-06-07 16:38:58 [pool-1-thread-2] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-2 查询了充电桩空闲表单一次
+2023-06-07 16:38:58 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 查询了充电桩空闲表单一次
+2023-06-07 16:38:58 [pool-1-thread-2] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-2 即将调取订单队列
+2023-06-07 16:38:58 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 即将调取订单队列
+2023-06-07 16:39:22 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1拿到订单 35 开始处理
+2023-06-07 16:39:22 [pool-1-thread-3] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-3开始处理预订单 id 为 35 的订单请求
+2023-06-07 16:39:25 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 查询了充电桩空闲表单一次
+2023-06-07 16:39:25 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 即将调取订单队列
+2023-06-07 16:39:55 [main] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - 检测到服务关闭,线程销毁中
+2023-06-07 16:41:42 [RMI TCP Connection(2)-127.0.0.1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - 检测到服务开启,线程启动中。。。。。
+2023-06-07 16:41:42 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 即将开始监测队列 fastModeBlockingDeque
+2023-06-07 16:41:42 [pool-1-thread-2] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-2 即将开始监测队列 lowModeBlockingDeque
+2023-06-07 16:41:43 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 查询了充电桩空闲表单一次
+2023-06-07 16:41:43 [pool-1-thread-2] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-2 查询了充电桩空闲表单一次
+2023-06-07 16:41:43 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 即将调取订单队列
+2023-06-07 16:41:43 [pool-1-thread-2] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-2 即将调取订单队列
+2023-06-07 16:42:15 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1拿到订单 36 开始处理
+2023-06-07 16:42:15 [pool-1-thread-3] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-3开始处理预订单 id 为 36 的订单请求
+2023-06-07 16:42:17 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 查询了充电桩空闲表单一次
+2023-06-07 16:42:17 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 即将调取订单队列
+2023-06-07 16:43:41 [main] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - 检测到服务关闭,线程销毁中
+2023-06-07 16:44:03 [RMI TCP Connection(2)-127.0.0.1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - 检测到服务开启,线程启动中。。。。。
+2023-06-07 16:44:03 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 即将开始监测队列 fastModeBlockingDeque
+2023-06-07 16:44:03 [pool-1-thread-2] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-2 即将开始监测队列 lowModeBlockingDeque
+2023-06-07 16:44:04 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 查询了充电桩空闲表单一次
+2023-06-07 16:44:04 [pool-1-thread-2] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-2 查询了充电桩空闲表单一次
+2023-06-07 16:44:04 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 即将调取订单队列
+2023-06-07 16:44:04 [pool-1-thread-2] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-2 即将调取订单队列
+2023-06-07 16:44:38 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1拿到订单 37 开始处理
+2023-06-07 16:44:41 [pool-1-thread-3] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-3开始处理预订单 id 为 37 的订单请求
+2023-06-07 16:45:35 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 查询了充电桩空闲表单一次
+2023-06-07 16:45:35 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 即将调取订单队列
+2023-06-07 16:46:57 [main] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - 检测到服务关闭,线程销毁中
+2023-06-07 16:47:23 [RMI TCP Connection(3)-127.0.0.1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - 检测到服务开启,线程启动中。。。。。
+2023-06-07 16:47:23 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 即将开始监测队列 fastModeBlockingDeque
+2023-06-07 16:47:23 [pool-1-thread-2] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-2 即将开始监测队列 lowModeBlockingDeque
+2023-06-07 16:47:24 [pool-1-thread-2] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-2 查询了充电桩空闲表单一次
+2023-06-07 16:47:24 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 查询了充电桩空闲表单一次
+2023-06-07 16:47:24 [pool-1-thread-2] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-2 即将调取订单队列
+2023-06-07 16:47:24 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 即将调取订单队列
+2023-06-07 16:47:58 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1拿到订单 38 开始处理
+2023-06-07 16:47:58 [pool-1-thread-3] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-3开始处理预订单 id 为 38 的订单请求
+2023-06-07 16:47:58 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 查询了充电桩空闲表单一次
+2023-06-07 16:47:58 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 即将调取订单队列
+2023-06-07 16:47:58 [pool-1-thread-3] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-3拿到了订单： Bill [Hash = 1595329874, billID=38, chargeMod=true, created_at=Wed Jun 07 16:47:55 CST 2023, deviceID=null, chargeDuration=00:20, chargeStartTime=null, chargeEndTime=null, updated_at=Wed Jun 07 16:47:55 CST 2023, chargeFee=null, serviceFee=null, userID=3, totalFee=null, chargeAmount=10, isDone=false]
+2023-06-07 16:47:58 [pool-1-thread-3] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-3拿到了设备： Device [Hash = 661011314, deviceID=1, workingStatu=true, chargeStatu=false, chargeTimeCount=10:07, chargeTimesCount=72, chargeFeeCount=40.1, deviceType=true, chargeRate=30, created_at=Tue Jun 06 22:54:26 CST 2023, updated_at=Wed Jun 07 15:06:01 CST 2023]
+2023-06-07 16:47:58 [pool-1-thread-3] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-3拿到了汽车： Carinfo [Hash = 118664665, carID=3, deviceID=null, userID=3, chargeMode=false, batterySize=60.0, carDeck=闽A24682, carRank=1, waitingStatu=0]
+2023-06-07 16:47:58 [pool-1-thread-3] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-3 拿到当前系统时间为 2023-06-07 16:47
+2023-06-07 16:48:34 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1拿到订单 39 开始处理
+2023-06-07 16:48:34 [pool-1-thread-4] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-4开始处理预订单 id 为 39 的订单请求
+2023-06-07 16:48:34 [pool-1-thread-4] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-4拿到了订单： Bill [Hash = 1062739206, billID=39, chargeMod=true, created_at=Wed Jun 07 16:48:30 CST 2023, deviceID=null, chargeDuration=00:20, chargeStartTime=null, chargeEndTime=null, updated_at=Wed Jun 07 16:48:30 CST 2023, chargeFee=null, serviceFee=null, userID=1, totalFee=null, chargeAmount=10, isDone=false]
+2023-06-07 16:48:34 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 查询了充电桩空闲表单一次
+2023-06-07 16:48:34 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 即将调取订单队列
+2023-06-07 16:48:34 [pool-1-thread-4] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-4拿到了设备： Device [Hash = 1601692233, deviceID=1, workingStatu=true, chargeStatu=true, chargeTimeCount=10:07, chargeTimesCount=72, chargeFeeCount=40.1, deviceType=true, chargeRate=30, created_at=Tue Jun 06 22:54:26 CST 2023, updated_at=Wed Jun 07 15:06:01 CST 2023]
+2023-06-07 16:48:34 [pool-1-thread-4] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-4拿到了汽车： Carinfo [Hash = 1530517911, carID=1, deviceID=null, userID=1, chargeMode=false, batterySize=60.0, carDeck=琼A78910, carRank=2, waitingStatu=0]
+2023-06-07 16:48:34 [pool-1-thread-4] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-4 拿到当前系统时间为 2023-06-07 16:48
+2023-06-07 16:53:11 [main] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - 检测到服务关闭,线程销毁中
+2023-06-07 16:53:32 [RMI TCP Connection(3)-127.0.0.1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - 检测到服务开启,线程启动中。。。。。
+2023-06-07 16:53:32 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 即将开始监测队列 fastModeBlockingDeque
+2023-06-07 16:53:32 [pool-1-thread-2] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-2 即将开始监测队列 lowModeBlockingDeque
+2023-06-07 16:53:33 [pool-1-thread-2] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-2 查询了充电桩空闲表单一次
+2023-06-07 16:53:33 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 查询了充电桩空闲表单一次
+2023-06-07 16:53:33 [pool-1-thread-2] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-2 即将调取订单队列
+2023-06-07 16:53:33 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 即将调取订单队列
+2023-06-07 16:54:03 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1拿到订单 40 开始处理
+2023-06-07 16:54:04 [pool-1-thread-3] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-3开始处理预订单 id 为 40 的订单请求
+2023-06-07 16:54:06 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 查询了充电桩空闲表单一次
+2023-06-07 16:54:06 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 即将调取订单队列
+2023-06-07 16:54:10 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1拿到订单 41 开始处理
+2023-06-07 16:54:10 [pool-1-thread-5] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-5开始处理预订单 id 为 41 的订单请求
+2023-06-07 16:54:12 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 查询了充电桩空闲表单一次
+2023-06-07 16:54:12 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 即将调取订单队列
+2023-06-07 16:54:34 [http-nio-9988-exec-1] ERROR c.p.smartcharge.system.aspect.ExceptionAspect - Cannot invoke "java.lang.Integer.intValue()" because "totalAmount" is null
+2023-06-07 16:54:44 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1拿到订单 42 开始处理
+2023-06-07 16:54:44 [pool-1-thread-7] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-7开始处理预订单 id 为 42 的订单请求
+2023-06-07 16:54:46 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 查询了充电桩空闲表单一次
+2023-06-07 16:54:46 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 即将调取订单队列
+2023-06-07 16:55:25 [main] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - 检测到服务关闭,线程销毁中
+2023-06-07 16:55:44 [RMI TCP Connection(2)-127.0.0.1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - 检测到服务开启,线程启动中。。。。。
+2023-06-07 16:55:44 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 即将开始监测队列 fastModeBlockingDeque
+2023-06-07 16:55:44 [pool-1-thread-2] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-2 即将开始监测队列 lowModeBlockingDeque
+2023-06-07 16:55:45 [pool-1-thread-2] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-2 查询了充电桩空闲表单一次
+2023-06-07 16:55:45 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 查询了充电桩空闲表单一次
+2023-06-07 16:55:45 [pool-1-thread-2] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-2 即将调取订单队列
+2023-06-07 16:55:45 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 即将调取订单队列
+2023-06-07 16:56:02 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1拿到订单 43 开始处理
+2023-06-07 16:56:02 [pool-1-thread-3] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-3开始处理预订单 id 为 43 的订单请求
+2023-06-07 16:56:04 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 查询了充电桩空闲表单一次
+2023-06-07 16:56:04 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 即将调取订单队列
+2023-06-07 16:56:09 [main] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - 检测到服务关闭,线程销毁中
+2023-06-07 16:56:32 [RMI TCP Connection(2)-127.0.0.1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - 检测到服务开启,线程启动中。。。。。
+2023-06-07 16:56:32 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 即将开始监测队列 fastModeBlockingDeque
+2023-06-07 16:56:32 [pool-1-thread-2] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-2 即将开始监测队列 lowModeBlockingDeque
+2023-06-07 16:56:33 [pool-1-thread-2] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-2 查询了充电桩空闲表单一次
+2023-06-07 16:56:33 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 查询了充电桩空闲表单一次
+2023-06-07 16:56:33 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 即将调取订单队列
+2023-06-07 16:56:33 [pool-1-thread-2] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-2 即将调取订单队列
+2023-06-07 16:56:53 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1拿到订单 44 开始处理
+2023-06-07 16:56:53 [pool-1-thread-3] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-3开始处理预订单 id 为 44 的订单请求
+2023-06-07 16:57:00 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 查询了充电桩空闲表单一次
+2023-06-07 16:57:00 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 即将调取订单队列
+2023-06-07 16:57:24 [main] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - 检测到服务关闭,线程销毁中
+2023-06-07 16:57:45 [RMI TCP Connection(2)-127.0.0.1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - 检测到服务开启,线程启动中。。。。。
+2023-06-07 16:57:45 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 即将开始监测队列 fastModeBlockingDeque
+2023-06-07 16:57:45 [pool-1-thread-2] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-2 即将开始监测队列 lowModeBlockingDeque
+2023-06-07 16:57:47 [pool-1-thread-2] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-2 查询了充电桩空闲表单一次
+2023-06-07 16:57:47 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 查询了充电桩空闲表单一次
+2023-06-07 16:57:47 [pool-1-thread-2] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-2 即将调取订单队列
+2023-06-07 16:57:47 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 即将调取订单队列
+2023-06-07 16:58:21 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1拿到订单 45 开始处理
+2023-06-07 16:58:23 [pool-1-thread-3] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-3开始处理预订单 id 为 45 的订单请求
+2023-06-07 16:58:24 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 查询了充电桩空闲表单一次
+2023-06-07 16:58:24 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 即将调取订单队列
+2023-06-07 16:58:25 [pool-1-thread-3] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-3拿到了订单： Bill [Hash = 1621867863, billID=45, chargeMod=true, created_at=Wed Jun 07 16:58:20 CST 2023, deviceID=null, chargeDuration=00:20, chargeStartTime=null, chargeEndTime=null, updated_at=Wed Jun 07 16:58:20 CST 2023, chargeFee=null, serviceFee=null, userID=1, totalFee=null, chargeAmount=10, isDone=false]
+2023-06-07 16:58:27 [pool-1-thread-3] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-3拿到了设备： Device [Hash = 897516909, deviceID=1, workingStatu=true, chargeStatu=false, chargeTimeCount=10:18, chargeTimesCount=74, chargeFeeCount=48.35, deviceType=true, chargeRate=30, created_at=Tue Jun 06 22:54:26 CST 2023, updated_at=Wed Jun 07 15:06:01 CST 2023]
+2023-06-07 16:58:27 [pool-1-thread-3] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-3拿到了汽车： Carinfo [Hash = 352419719, carID=1, deviceID=null, userID=1, chargeMode=false, batterySize=60.0, carDeck=琼A78910, carRank=1, waitingStatu=0]
+2023-06-07 16:58:27 [pool-1-thread-3] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-3 拿到当前系统时间为 2023-06-07 16:58
+2023-06-07 16:58:34 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1拿到订单 46 开始处理
+2023-06-07 16:58:36 [pool-1-thread-4] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-4开始处理预订单 id 为 46 的订单请求
+2023-06-07 16:58:36 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 查询了充电桩空闲表单一次
+2023-06-07 16:58:36 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 即将调取订单队列
+2023-06-07 16:58:36 [pool-1-thread-4] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-4拿到了订单： Bill [Hash = 1906967286, billID=46, chargeMod=true, created_at=Wed Jun 07 16:58:33 CST 2023, deviceID=null, chargeDuration=00:20, chargeStartTime=null, chargeEndTime=null, updated_at=Wed Jun 07 16:58:33 CST 2023, chargeFee=null, serviceFee=null, userID=3, totalFee=null, chargeAmount=10, isDone=false]
+2023-06-07 16:58:36 [pool-1-thread-4] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-4拿到了设备： Device [Hash = 293993913, deviceID=1, workingStatu=true, chargeStatu=true, chargeTimeCount=10:18, chargeTimesCount=74, chargeFeeCount=48.35, deviceType=true, chargeRate=30, created_at=Tue Jun 06 22:54:26 CST 2023, updated_at=Wed Jun 07 15:06:01 CST 2023]
+2023-06-07 16:58:36 [pool-1-thread-4] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-4拿到了汽车： Carinfo [Hash = 365658253, carID=3, deviceID=null, userID=3, chargeMode=false, batterySize=60.0, carDeck=闽A24682, carRank=2, waitingStatu=0]
+2023-06-07 16:58:36 [pool-1-thread-4] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-4 拿到当前系统时间为 2023-06-07 16:58
+2023-06-07 16:59:04 [main] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - 检测到服务关闭,线程销毁中
+2023-06-07 16:59:39 [RMI TCP Connection(2)-127.0.0.1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - 检测到服务开启,线程启动中。。。。。
+2023-06-07 16:59:39 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 即将开始监测队列 fastModeBlockingDeque
+2023-06-07 16:59:39 [pool-1-thread-2] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-2 即将开始监测队列 lowModeBlockingDeque
+2023-06-07 16:59:40 [pool-1-thread-2] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-2 查询了充电桩空闲表单一次
+2023-06-07 16:59:40 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 查询了充电桩空闲表单一次
+2023-06-07 16:59:40 [pool-1-thread-2] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-2 即将调取订单队列
+2023-06-07 16:59:40 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 即将调取订单队列
+2023-06-07 16:59:51 [main] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - 检测到服务关闭,线程销毁中
+2023-06-07 17:00:13 [RMI TCP Connection(2)-127.0.0.1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - 检测到服务开启,线程启动中。。。。。
+2023-06-07 17:00:13 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 即将开始监测队列 fastModeBlockingDeque
+2023-06-07 17:00:13 [pool-1-thread-2] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-2 即将开始监测队列 lowModeBlockingDeque
+2023-06-07 17:00:15 [pool-1-thread-2] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-2 查询了充电桩空闲表单一次
+2023-06-07 17:00:15 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 查询了充电桩空闲表单一次
+2023-06-07 17:00:15 [pool-1-thread-2] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-2 即将调取订单队列
+2023-06-07 17:00:15 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 即将调取订单队列
+2023-06-07 17:00:27 [main] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - 检测到服务关闭,线程销毁中
+2023-06-07 17:00:51 [RMI TCP Connection(4)-127.0.0.1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - 检测到服务开启,线程启动中。。。。。
+2023-06-07 17:00:51 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 即将开始监测队列 fastModeBlockingDeque
+2023-06-07 17:00:51 [pool-1-thread-2] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-2 即将开始监测队列 lowModeBlockingDeque
+2023-06-07 17:00:56 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 查询了充电桩空闲表单一次
+2023-06-07 17:00:56 [pool-1-thread-2] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-2 查询了充电桩空闲表单一次
+2023-06-07 17:00:56 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 即将调取订单队列
+2023-06-07 17:00:56 [pool-1-thread-2] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-2 即将调取订单队列
+2023-06-07 17:08:19 [main] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - 检测到服务关闭,线程销毁中
+2023-06-07 17:08:41 [RMI TCP Connection(3)-127.0.0.1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - 检测到服务开启,线程启动中。。。。。
+2023-06-07 17:08:41 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 即将开始监测队列 fastModeBlockingDeque
+2023-06-07 17:08:41 [pool-1-thread-2] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-2 即将开始监测队列 lowModeBlockingDeque
+2023-06-07 17:08:47 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 查询了充电桩空闲表单一次
+2023-06-07 17:08:47 [pool-1-thread-2] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-2 查询了充电桩空闲表单一次
+2023-06-07 17:08:47 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 即将调取订单队列
+2023-06-07 17:08:47 [pool-1-thread-2] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-2 即将调取订单队列
+2023-06-07 17:08:57 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1拿到订单 47 开始处理
+2023-06-07 17:08:59 [pool-1-thread-3] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-3开始处理预订单 id 为 47 的订单请求
+2023-06-07 17:08:59 [pool-1-thread-3] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-3拿到了订单： Bill [Hash = 1929310254, billID=47, chargeMod=true, created_at=Wed Jun 07 17:08:56 CST 2023, deviceID=null, chargeDuration=00:20, chargeStartTime=null, chargeEndTime=null, updated_at=Wed Jun 07 17:08:56 CST 2023, chargeFee=null, serviceFee=null, userID=1, totalFee=null, chargeAmount=10, isDone=false]
+2023-06-07 17:08:59 [pool-1-thread-3] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-3拿到了设备： Device [Hash = 435734214, deviceID=1, workingStatu=true, chargeStatu=false, chargeTimeCount=10:19, chargeTimesCount=76, chargeFeeCount=49.1, deviceType=true, chargeRate=30, created_at=Tue Jun 06 22:54:26 CST 2023, updated_at=Wed Jun 07 15:06:01 CST 2023]
+2023-06-07 17:08:59 [pool-1-thread-3] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-3拿到了汽车： Carinfo [Hash = 714395737, carID=1, deviceID=null, userID=1, chargeMode=false, batterySize=60.0, carDeck=琼A78910, carRank=1, waitingStatu=0]
+2023-06-07 17:08:59 [pool-1-thread-3] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-3 拿到当前系统时间为 2023-06-07 17:08
+2023-06-07 17:09:04 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 查询了充电桩空闲表单一次
+2023-06-07 17:09:04 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 即将调取订单队列
+2023-06-07 17:11:38 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1拿到订单 48 开始处理
+2023-06-07 17:11:40 [pool-1-thread-4] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-4开始处理预订单 id 为 48 的订单请求
+2023-06-07 17:11:40 [pool-1-thread-4] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-4拿到了订单： Bill [Hash = 737827829, billID=48, chargeMod=true, created_at=Wed Jun 07 17:11:37 CST 2023, deviceID=null, chargeDuration=00:20, chargeStartTime=null, chargeEndTime=null, updated_at=Wed Jun 07 17:11:37 CST 2023, chargeFee=null, serviceFee=null, userID=3, totalFee=null, chargeAmount=10, isDone=false]
+2023-06-07 17:11:40 [pool-1-thread-4] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-4拿到了设备： Device [Hash = 1272292538, deviceID=2, workingStatu=true, chargeStatu=false, chargeTimeCount=00:59, chargeTimesCount=5, chargeFeeCount=313.6, deviceType=true, chargeRate=30, created_at=Tue Jun 06 22:54:26 CST 2023, updated_at=Tue Jun 06 22:57:23 CST 2023]
+2023-06-07 17:11:40 [pool-1-thread-4] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-4拿到了汽车： Carinfo [Hash = 843870598, carID=3, deviceID=null, userID=3, chargeMode=false, batterySize=60.0, carDeck=闽A24682, carRank=2, waitingStatu=0]
+2023-06-07 17:11:40 [pool-1-thread-4] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-4 拿到当前系统时间为 2023-06-07 17:11
+2023-06-07 17:11:45 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 查询了充电桩空闲表单一次
+2023-06-07 17:11:45 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 即将调取订单队列
+2023-06-07 17:13:16 [main] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - 检测到服务关闭,线程销毁中
+2023-06-07 17:13:37 [RMI TCP Connection(2)-127.0.0.1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - 检测到服务开启,线程启动中。。。。。
+2023-06-07 17:13:37 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 即将开始监测队列 fastModeBlockingDeque
+2023-06-07 17:13:37 [pool-1-thread-2] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-2 即将开始监测队列 lowModeBlockingDeque
+2023-06-07 17:13:40 [pool-1-thread-2] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-2 查询了充电桩空闲表单一次
+2023-06-07 17:13:40 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 查询了充电桩空闲表单一次
+2023-06-07 17:13:40 [pool-1-thread-2] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-2 即将调取订单队列
+2023-06-07 17:13:40 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 即将调取订单队列
+2023-06-07 17:13:52 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1拿到订单 49 开始处理
+2023-06-07 17:13:54 [pool-1-thread-3] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-3开始处理预订单 id 为 49 的订单请求
+2023-06-07 17:13:54 [pool-1-thread-3] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-3拿到了订单： Bill [Hash = 878063739, billID=49, chargeMod=true, created_at=Wed Jun 07 17:13:51 CST 2023, deviceID=null, chargeDuration=00:20, chargeStartTime=null, chargeEndTime=null, updated_at=Wed Jun 07 17:13:51 CST 2023, chargeFee=null, serviceFee=null, userID=1, totalFee=null, chargeAmount=10, isDone=false]
+2023-06-07 17:13:54 [pool-1-thread-3] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-3拿到了设备： Device [Hash = 386859881, deviceID=1, workingStatu=true, chargeStatu=false, chargeTimeCount=10:22, chargeTimesCount=77, chargeFeeCount=51.35, deviceType=true, chargeRate=30, created_at=Tue Jun 06 22:54:26 CST 2023, updated_at=Wed Jun 07 15:06:01 CST 2023]
+2023-06-07 17:13:54 [pool-1-thread-3] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-3拿到了汽车： Carinfo [Hash = 578637145, carID=1, deviceID=null, userID=1, chargeMode=false, batterySize=60.0, carDeck=琼A78910, carRank=1, waitingStatu=0]
+2023-06-07 17:13:54 [pool-1-thread-3] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-3 拿到当前系统时间为 2023-06-07 17:13
+2023-06-07 17:13:56 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 查询了充电桩空闲表单一次
+2023-06-07 17:13:56 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 即将调取订单队列
+2023-06-07 17:14:34 [main] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - 检测到服务关闭,线程销毁中
+2023-06-07 17:14:54 [RMI TCP Connection(3)-127.0.0.1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - 检测到服务开启,线程启动中。。。。。
+2023-06-07 17:14:54 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 即将开始监测队列 fastModeBlockingDeque
+2023-06-07 17:14:54 [pool-1-thread-2] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-2 即将开始监测队列 lowModeBlockingDeque
+2023-06-07 17:14:57 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 查询了充电桩空闲表单一次
+2023-06-07 17:14:57 [pool-1-thread-2] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-2 查询了充电桩空闲表单一次
+2023-06-07 17:14:57 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 即将调取订单队列
+2023-06-07 17:14:57 [pool-1-thread-2] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-2 即将调取订单队列
+2023-06-07 17:15:17 [http-nio-9988-exec-1] INFO  com.project.smartcharge.system.aspect.UserAspect - 新用户注册到系统,用户名是 : v123456
+2023-06-07 17:15:34 [http-nio-9988-exec-6] ERROR c.p.smartcharge.system.aspect.ExceptionAspect - Cannot invoke "com.project.smartcharge.pojo.Carinfo.setWaitingStatu(java.lang.Byte)" because "carinfo" is null
+2023-06-07 17:15:36 [http-nio-9988-exec-10] ERROR c.p.smartcharge.system.aspect.ExceptionAspect - Cannot invoke "com.project.smartcharge.pojo.Carinfo.getWaitingStatu()" because "carinfo" is null
+2023-06-07 17:15:39 [http-nio-9988-exec-7] ERROR c.p.smartcharge.system.aspect.ExceptionAspect - Cannot invoke "com.project.smartcharge.pojo.Carinfo.getWaitingStatu()" because "carinfo" is null
+2023-06-07 17:18:11 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1拿到订单 51 开始处理
+2023-06-07 17:18:13 [pool-1-thread-3] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-3开始处理预订单 id 为 51 的订单请求
+2023-06-07 17:18:13 [pool-1-thread-3] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-3拿到了订单： Bill [Hash = 1963748115, billID=51, chargeMod=true, created_at=Wed Jun 07 17:18:10 CST 2023, deviceID=null, chargeDuration=00:20, chargeStartTime=null, chargeEndTime=null, updated_at=Wed Jun 07 17:18:10 CST 2023, chargeFee=null, serviceFee=null, userID=2, totalFee=null, chargeAmount=10, isDone=false]
+2023-06-07 17:18:13 [pool-1-thread-3] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-3拿到了设备： Device [Hash = 354653276, deviceID=1, workingStatu=true, chargeStatu=false, chargeTimeCount=10:23, chargeTimesCount=78, chargeFeeCount=52.1, deviceType=true, chargeRate=30, created_at=Tue Jun 06 22:54:26 CST 2023, updated_at=Wed Jun 07 15:06:01 CST 2023]
+2023-06-07 17:18:13 [pool-1-thread-3] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-3拿到了汽车： Carinfo [Hash = 292384206, carID=2, deviceID=null, userID=2, chargeMode=false, batterySize=60.0, carDeck=闽A12345, carRank=1, waitingStatu=0]
+2023-06-07 17:18:13 [pool-1-thread-3] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-3 拿到当前系统时间为 2023-06-07 17:18
+2023-06-07 17:18:15 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 查询了充电桩空闲表单一次
+2023-06-07 17:18:15 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 即将调取订单队列
+2023-06-07 17:18:36 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1拿到订单 52 开始处理
+2023-06-07 17:18:38 [pool-1-thread-4] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-4开始处理预订单 id 为 52 的订单请求
+2023-06-07 17:18:38 [pool-1-thread-4] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-4拿到了订单： Bill [Hash = 1857554909, billID=52, chargeMod=true, created_at=Wed Jun 07 17:18:35 CST 2023, deviceID=null, chargeDuration=00:20, chargeStartTime=null, chargeEndTime=null, updated_at=Wed Jun 07 17:18:35 CST 2023, chargeFee=null, serviceFee=null, userID=2, totalFee=null, chargeAmount=10, isDone=false]
+2023-06-07 17:18:38 [pool-1-thread-4] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-4拿到了设备： Device [Hash = 244840082, deviceID=2, workingStatu=true, chargeStatu=false, chargeTimeCount=00:59, chargeTimesCount=6, chargeFeeCount=313.6, deviceType=true, chargeRate=30, created_at=Tue Jun 06 22:54:26 CST 2023, updated_at=Tue Jun 06 22:57:23 CST 2023]
+2023-06-07 17:18:38 [pool-1-thread-4] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-4拿到了汽车： Carinfo [Hash = 182029500, carID=2, deviceID=null, userID=2, chargeMode=false, batterySize=60.0, carDeck=闽A12345, carRank=1, waitingStatu=0]
+2023-06-07 17:18:38 [pool-1-thread-4] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-4 拿到当前系统时间为 2023-06-07 17:18
+2023-06-07 17:18:40 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 查询了充电桩空闲表单一次
+2023-06-07 17:18:40 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 即将调取订单队列
+2023-06-07 17:19:01 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1拿到订单 53 开始处理
+2023-06-07 17:19:03 [pool-1-thread-5] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-5开始处理预订单 id 为 53 的订单请求
+2023-06-07 17:19:03 [pool-1-thread-5] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-5拿到了订单： Bill [Hash = 914767568, billID=53, chargeMod=true, created_at=Wed Jun 07 17:19:00 CST 2023, deviceID=null, chargeDuration=00:20, chargeStartTime=null, chargeEndTime=null, updated_at=Wed Jun 07 17:19:00 CST 2023, chargeFee=null, serviceFee=null, userID=5, totalFee=null, chargeAmount=10, isDone=false]
+2023-06-07 17:19:03 [pool-1-thread-5] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-5拿到了设备： Device [Hash = 1453965727, deviceID=1, workingStatu=true, chargeStatu=false, chargeTimeCount=10:23, chargeTimesCount=79, chargeFeeCount=52.1, deviceType=true, chargeRate=30, created_at=Tue Jun 06 22:54:26 CST 2023, updated_at=Wed Jun 07 15:06:01 CST 2023]
+2023-06-07 17:19:03 [pool-1-thread-5] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-5拿到了汽车： Carinfo [Hash = 1390902159, carID=5, deviceID=null, userID=5, chargeMode=false, batterySize=400.0, carDeck=京N8P8F8, carRank=2, waitingStatu=0]
+2023-06-07 17:19:03 [pool-1-thread-5] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-5 拿到当前系统时间为 2023-06-07 17:19
+2023-06-07 17:19:05 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 查询了充电桩空闲表单一次
+2023-06-07 17:19:05 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1没有获取到空闲充电桩,即将休眠
+2023-06-07 17:19:17 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 查询了充电桩空闲表单一次
+2023-06-07 17:19:17 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1没有获取到空闲充电桩,即将休眠
+2023-06-07 17:19:29 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 查询了充电桩空闲表单一次
+2023-06-07 17:19:29 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1没有获取到空闲充电桩,即将休眠
+2023-06-07 17:19:41 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 查询了充电桩空闲表单一次
+2023-06-07 17:19:41 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1没有获取到空闲充电桩,即将休眠
+2023-06-07 17:19:42 [http-nio-9988-exec-3] ERROR c.p.smartcharge.system.aspect.ExceptionAspect - Cannot invoke "java.lang.Integer.intValue()" because "totalAmount" is null
+2023-06-07 17:19:46 [http-nio-9988-exec-7] ERROR c.p.smartcharge.system.aspect.ExceptionAspect - Cannot invoke "java.lang.Integer.intValue()" because "totalAmount" is null
+2023-06-07 17:19:53 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 查询了充电桩空闲表单一次
+2023-06-07 17:19:53 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1没有获取到空闲充电桩,即将休眠
+2023-06-07 17:20:05 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 查询了充电桩空闲表单一次
+2023-06-07 17:20:05 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1没有获取到空闲充电桩,即将休眠
+2023-06-07 17:20:17 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 查询了充电桩空闲表单一次
+2023-06-07 17:20:17 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1没有获取到空闲充电桩,即将休眠
+2023-06-07 17:20:29 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 查询了充电桩空闲表单一次
+2023-06-07 17:20:29 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1没有获取到空闲充电桩,即将休眠
+2023-06-07 17:20:41 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 查询了充电桩空闲表单一次
+2023-06-07 17:20:41 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1没有获取到空闲充电桩,即将休眠
+2023-06-07 17:20:53 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 查询了充电桩空闲表单一次
+2023-06-07 17:20:53 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1没有获取到空闲充电桩,即将休眠
+2023-06-07 17:21:05 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 查询了充电桩空闲表单一次
+2023-06-07 17:21:05 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1没有获取到空闲充电桩,即将休眠
+2023-06-07 17:21:17 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 查询了充电桩空闲表单一次
+2023-06-07 17:21:17 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1没有获取到空闲充电桩,即将休眠
+2023-06-07 17:21:29 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 查询了充电桩空闲表单一次
+2023-06-07 17:21:29 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1没有获取到空闲充电桩,即将休眠
+2023-06-07 17:21:41 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 查询了充电桩空闲表单一次
+2023-06-07 17:21:41 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1没有获取到空闲充电桩,即将休眠
+2023-06-07 17:21:53 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 查询了充电桩空闲表单一次
+2023-06-07 17:21:53 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1没有获取到空闲充电桩,即将休眠
+2023-06-07 17:22:05 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 查询了充电桩空闲表单一次
+2023-06-07 17:22:05 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1没有获取到空闲充电桩,即将休眠
+2023-06-07 17:22:17 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 查询了充电桩空闲表单一次
+2023-06-07 17:22:17 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1没有获取到空闲充电桩,即将休眠
+2023-06-07 17:22:29 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 查询了充电桩空闲表单一次
+2023-06-07 17:22:29 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1没有获取到空闲充电桩,即将休眠
+2023-06-07 17:22:42 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 查询了充电桩空闲表单一次
+2023-06-07 17:22:42 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1没有获取到空闲充电桩,即将休眠
+2023-06-07 17:22:54 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 查询了充电桩空闲表单一次
+2023-06-07 17:22:54 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1没有获取到空闲充电桩,即将休眠
+2023-06-07 17:23:06 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 查询了充电桩空闲表单一次
+2023-06-07 17:23:06 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1没有获取到空闲充电桩,即将休眠
+2023-06-07 17:23:18 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 查询了充电桩空闲表单一次
+2023-06-07 17:23:18 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1没有获取到空闲充电桩,即将休眠
+2023-06-07 17:23:30 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 查询了充电桩空闲表单一次
+2023-06-07 17:23:30 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1没有获取到空闲充电桩,即将休眠
+2023-06-07 17:23:42 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 查询了充电桩空闲表单一次
+2023-06-07 17:23:42 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1没有获取到空闲充电桩,即将休眠
+2023-06-07 17:23:54 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 查询了充电桩空闲表单一次
+2023-06-07 17:23:54 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1没有获取到空闲充电桩,即将休眠
+2023-06-07 17:24:06 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 查询了充电桩空闲表单一次
+2023-06-07 17:24:06 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1没有获取到空闲充电桩,即将休眠
+2023-06-07 17:24:18 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 查询了充电桩空闲表单一次
+2023-06-07 17:24:18 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1没有获取到空闲充电桩,即将休眠
+2023-06-07 17:24:30 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 查询了充电桩空闲表单一次
+2023-06-07 17:24:30 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1没有获取到空闲充电桩,即将休眠
+2023-06-07 17:24:42 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 查询了充电桩空闲表单一次
+2023-06-07 17:24:42 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1没有获取到空闲充电桩,即将休眠
+2023-06-07 17:24:54 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 查询了充电桩空闲表单一次
+2023-06-07 17:24:54 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1没有获取到空闲充电桩,即将休眠
+2023-06-07 17:25:06 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 查询了充电桩空闲表单一次
+2023-06-07 17:25:06 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1没有获取到空闲充电桩,即将休眠
+2023-06-07 17:25:18 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 查询了充电桩空闲表单一次
+2023-06-07 17:25:18 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1没有获取到空闲充电桩,即将休眠
+2023-06-07 17:25:30 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 查询了充电桩空闲表单一次
+2023-06-07 17:25:30 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1没有获取到空闲充电桩,即将休眠
+2023-06-07 17:25:42 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 查询了充电桩空闲表单一次
+2023-06-07 17:25:42 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1没有获取到空闲充电桩,即将休眠
+2023-06-07 17:25:54 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 查询了充电桩空闲表单一次
+2023-06-07 17:25:54 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1没有获取到空闲充电桩,即将休眠
+2023-06-07 17:26:06 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 查询了充电桩空闲表单一次
+2023-06-07 17:26:06 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1没有获取到空闲充电桩,即将休眠
+2023-06-07 17:26:18 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 查询了充电桩空闲表单一次
+2023-06-07 17:26:18 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1没有获取到空闲充电桩,即将休眠
+2023-06-07 17:26:30 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 查询了充电桩空闲表单一次
+2023-06-07 17:26:30 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1没有获取到空闲充电桩,即将休眠
+2023-06-07 17:26:42 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 查询了充电桩空闲表单一次
+2023-06-07 17:26:42 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1没有获取到空闲充电桩,即将休眠
+2023-06-07 17:26:54 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 查询了充电桩空闲表单一次
+2023-06-07 17:26:54 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1没有获取到空闲充电桩,即将休眠
+2023-06-07 17:27:06 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 查询了充电桩空闲表单一次
+2023-06-07 17:27:06 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1没有获取到空闲充电桩,即将休眠
+2023-06-07 17:27:18 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 查询了充电桩空闲表单一次
+2023-06-07 17:27:18 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1没有获取到空闲充电桩,即将休眠
+2023-06-07 17:27:30 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 查询了充电桩空闲表单一次
+2023-06-07 17:27:30 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1没有获取到空闲充电桩,即将休眠
+2023-06-07 17:27:42 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 查询了充电桩空闲表单一次
+2023-06-07 17:27:42 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1没有获取到空闲充电桩,即将休眠
+2023-06-07 17:27:54 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 查询了充电桩空闲表单一次
+2023-06-07 17:27:54 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1没有获取到空闲充电桩,即将休眠
+2023-06-07 17:28:06 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 查询了充电桩空闲表单一次
+2023-06-07 17:28:06 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1没有获取到空闲充电桩,即将休眠
+2023-06-07 17:28:18 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 查询了充电桩空闲表单一次
+2023-06-07 17:28:18 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1没有获取到空闲充电桩,即将休眠
+2023-06-07 17:28:30 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 查询了充电桩空闲表单一次
+2023-06-07 17:28:30 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1没有获取到空闲充电桩,即将休眠
+2023-06-07 17:28:42 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 查询了充电桩空闲表单一次
+2023-06-07 17:28:42 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1没有获取到空闲充电桩,即将休眠
+2023-06-07 17:28:54 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 查询了充电桩空闲表单一次
+2023-06-07 17:28:54 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1没有获取到空闲充电桩,即将休眠
+2023-06-07 17:29:06 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 查询了充电桩空闲表单一次
+2023-06-07 17:29:06 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1没有获取到空闲充电桩,即将休眠
+2023-06-07 17:29:18 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 查询了充电桩空闲表单一次
+2023-06-07 17:29:18 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1没有获取到空闲充电桩,即将休眠
+2023-06-07 17:29:30 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 查询了充电桩空闲表单一次
+2023-06-07 17:29:30 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1没有获取到空闲充电桩,即将休眠
+2023-06-07 17:29:42 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 查询了充电桩空闲表单一次
+2023-06-07 17:29:42 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1没有获取到空闲充电桩,即将休眠
+2023-06-07 17:29:54 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 查询了充电桩空闲表单一次
+2023-06-07 17:29:54 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1没有获取到空闲充电桩,即将休眠
+2023-06-07 17:30:06 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 查询了充电桩空闲表单一次
+2023-06-07 17:30:06 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1没有获取到空闲充电桩,即将休眠
+2023-06-07 17:30:18 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 查询了充电桩空闲表单一次
+2023-06-07 17:30:18 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1没有获取到空闲充电桩,即将休眠
+2023-06-07 17:30:30 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 查询了充电桩空闲表单一次
+2023-06-07 17:30:30 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1没有获取到空闲充电桩,即将休眠
+2023-06-07 17:30:42 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 查询了充电桩空闲表单一次
+2023-06-07 17:30:42 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1没有获取到空闲充电桩,即将休眠
+2023-06-07 17:30:54 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 查询了充电桩空闲表单一次
+2023-06-07 17:30:54 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1没有获取到空闲充电桩,即将休眠
+2023-06-07 17:31:06 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 查询了充电桩空闲表单一次
+2023-06-07 17:31:06 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1没有获取到空闲充电桩,即将休眠
+2023-06-07 17:31:18 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 查询了充电桩空闲表单一次
+2023-06-07 17:31:18 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1没有获取到空闲充电桩,即将休眠
+2023-06-07 17:31:30 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 查询了充电桩空闲表单一次
+2023-06-07 17:31:30 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1没有获取到空闲充电桩,即将休眠
+2023-06-07 17:31:42 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 查询了充电桩空闲表单一次
+2023-06-07 17:31:42 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1没有获取到空闲充电桩,即将休眠
+2023-06-07 17:31:54 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 查询了充电桩空闲表单一次
+2023-06-07 17:31:54 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1没有获取到空闲充电桩,即将休眠
+2023-06-07 17:32:06 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 查询了充电桩空闲表单一次
+2023-06-07 17:32:06 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1没有获取到空闲充电桩,即将休眠
+2023-06-07 17:32:18 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 查询了充电桩空闲表单一次
+2023-06-07 17:32:18 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1没有获取到空闲充电桩,即将休眠
+2023-06-07 17:32:30 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 查询了充电桩空闲表单一次
+2023-06-07 17:32:30 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1没有获取到空闲充电桩,即将休眠
+2023-06-07 17:32:42 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 查询了充电桩空闲表单一次
+2023-06-07 17:32:42 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1没有获取到空闲充电桩,即将休眠
+2023-06-07 17:32:54 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 查询了充电桩空闲表单一次
+2023-06-07 17:32:54 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1没有获取到空闲充电桩,即将休眠
+2023-06-07 17:33:06 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 查询了充电桩空闲表单一次
+2023-06-07 17:33:06 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1没有获取到空闲充电桩,即将休眠
+2023-06-07 17:33:18 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 查询了充电桩空闲表单一次
+2023-06-07 17:33:18 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1没有获取到空闲充电桩,即将休眠
+2023-06-07 17:33:30 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 查询了充电桩空闲表单一次
+2023-06-07 17:33:30 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1没有获取到空闲充电桩,即将休眠
+2023-06-07 17:33:42 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 查询了充电桩空闲表单一次
+2023-06-07 17:33:42 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1没有获取到空闲充电桩,即将休眠
+2023-06-07 17:33:54 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 查询了充电桩空闲表单一次
+2023-06-07 17:33:54 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1没有获取到空闲充电桩,即将休眠
+2023-06-07 17:34:07 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 查询了充电桩空闲表单一次
+2023-06-07 17:34:07 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1没有获取到空闲充电桩,即将休眠
+2023-06-07 17:34:19 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 查询了充电桩空闲表单一次
+2023-06-07 17:34:19 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1没有获取到空闲充电桩,即将休眠
+2023-06-07 17:34:31 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 查询了充电桩空闲表单一次
+2023-06-07 17:34:31 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1没有获取到空闲充电桩,即将休眠
+2023-06-07 17:34:43 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 查询了充电桩空闲表单一次
+2023-06-07 17:34:43 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1没有获取到空闲充电桩,即将休眠
+2023-06-07 17:34:55 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 查询了充电桩空闲表单一次
+2023-06-07 17:34:55 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1没有获取到空闲充电桩,即将休眠
+2023-06-07 17:35:07 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 查询了充电桩空闲表单一次
+2023-06-07 17:35:07 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1没有获取到空闲充电桩,即将休眠
+2023-06-07 17:35:19 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 查询了充电桩空闲表单一次
+2023-06-07 17:35:19 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1没有获取到空闲充电桩,即将休眠
+2023-06-07 17:35:31 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 查询了充电桩空闲表单一次
+2023-06-07 17:35:31 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1没有获取到空闲充电桩,即将休眠
+2023-06-07 17:35:43 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 查询了充电桩空闲表单一次
+2023-06-07 17:35:43 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1没有获取到空闲充电桩,即将休眠
+2023-06-07 17:35:55 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 查询了充电桩空闲表单一次
+2023-06-07 17:35:55 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1没有获取到空闲充电桩,即将休眠
+2023-06-07 17:36:07 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 查询了充电桩空闲表单一次
+2023-06-07 17:36:07 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1没有获取到空闲充电桩,即将休眠
+2023-06-07 17:36:19 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 查询了充电桩空闲表单一次
+2023-06-07 17:36:19 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1没有获取到空闲充电桩,即将休眠
+2023-06-07 17:36:31 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 查询了充电桩空闲表单一次
+2023-06-07 17:36:31 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1没有获取到空闲充电桩,即将休眠
+2023-06-07 17:36:43 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 查询了充电桩空闲表单一次
+2023-06-07 17:36:43 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1没有获取到空闲充电桩,即将休眠
+2023-06-07 17:36:55 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 查询了充电桩空闲表单一次
+2023-06-07 17:36:55 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1没有获取到空闲充电桩,即将休眠
+2023-06-07 17:37:07 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 查询了充电桩空闲表单一次
+2023-06-07 17:37:07 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1没有获取到空闲充电桩,即将休眠
+2023-06-07 17:37:19 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 查询了充电桩空闲表单一次
+2023-06-07 17:37:19 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1没有获取到空闲充电桩,即将休眠
+2023-06-07 17:37:31 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 查询了充电桩空闲表单一次
+2023-06-07 17:37:31 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1没有获取到空闲充电桩,即将休眠
+2023-06-07 17:37:43 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 查询了充电桩空闲表单一次
+2023-06-07 17:37:43 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1没有获取到空闲充电桩,即将休眠
+2023-06-07 17:37:55 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 查询了充电桩空闲表单一次
+2023-06-07 17:37:55 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1没有获取到空闲充电桩,即将休眠
+2023-06-07 17:38:07 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 查询了充电桩空闲表单一次
+2023-06-07 17:38:07 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 即将调取订单队列
+2023-06-07 17:38:07 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1拿到订单 54 开始处理
+2023-06-07 17:38:09 [pool-1-thread-6] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-6开始处理预订单 id 为 54 的订单请求
+2023-06-07 17:38:09 [pool-1-thread-6] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-6拿到了订单： Bill [Hash = 359674440, billID=54, chargeMod=true, created_at=Wed Jun 07 17:19:36 CST 2023, deviceID=null, chargeDuration=00:20, chargeStartTime=null, chargeEndTime=null, updated_at=Wed Jun 07 17:19:36 CST 2023, chargeFee=null, serviceFee=null, userID=4, totalFee=null, chargeAmount=10, isDone=false]
+2023-06-07 17:38:09 [pool-1-thread-6] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-6拿到了设备： Device [Hash = 1969212679, deviceID=2, workingStatu=true, chargeStatu=false, chargeTimeCount=01:19, chargeTimesCount=7, chargeFeeCount=328.6, deviceType=true, chargeRate=30, created_at=Tue Jun 06 22:54:26 CST 2023, updated_at=Tue Jun 06 22:57:23 CST 2023]
+2023-06-07 17:38:09 [pool-1-thread-6] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-6拿到了汽车： Carinfo [Hash = 1896994033, carID=4, deviceID=null, userID=4, chargeMode=false, batterySize=150.0, carDeck=京N8P8F8, carRank=2, waitingStatu=0]
+2023-06-07 17:38:09 [pool-1-thread-6] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-6 拿到当前系统时间为 2023-06-07 17:38
+2023-06-07 17:38:11 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 查询了充电桩空闲表单一次
+2023-06-07 17:38:11 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1没有获取到空闲充电桩,即将休眠
+2023-06-07 17:38:23 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 查询了充电桩空闲表单一次
+2023-06-07 17:38:23 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1没有获取到空闲充电桩,即将休眠
+2023-06-07 17:38:35 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 查询了充电桩空闲表单一次
+2023-06-07 17:38:35 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1没有获取到空闲充电桩,即将休眠
+2023-06-07 17:38:47 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 查询了充电桩空闲表单一次
+2023-06-07 17:38:47 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1没有获取到空闲充电桩,即将休眠
+2023-06-07 17:38:59 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 查询了充电桩空闲表单一次
+2023-06-07 17:38:59 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1没有获取到空闲充电桩,即将休眠
+2023-06-07 17:39:11 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 查询了充电桩空闲表单一次
+2023-06-07 17:39:11 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 即将调取订单队列
+2023-06-07 18:32:13 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1拿到订单 55 开始处理
+2023-06-07 18:32:15 [pool-1-thread-7] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-7开始处理预订单 id 为 55 的订单请求
+2023-06-07 18:32:15 [pool-1-thread-7] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-7拿到了订单： Bill [Hash = 1664474905, billID=55, chargeMod=true, created_at=Wed Jun 07 18:32:12 CST 2023, deviceID=null, chargeDuration=00:20, chargeStartTime=null, chargeEndTime=null, updated_at=Wed Jun 07 18:32:12 CST 2023, chargeFee=null, serviceFee=null, userID=2, totalFee=null, chargeAmount=10, isDone=false]
+2023-06-07 18:32:15 [pool-1-thread-7] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-7拿到了设备： Device [Hash = 52043862, deviceID=1, workingStatu=true, chargeStatu=false, chargeTimeCount=10:43, chargeTimesCount=80, chargeFeeCount=67.1, deviceType=true, chargeRate=30, created_at=Tue Jun 06 22:54:26 CST 2023, updated_at=Wed Jun 07 15:06:01 CST 2023]
+2023-06-07 18:32:15 [pool-1-thread-7] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-7拿到了汽车： Carinfo [Hash = 123002869, carID=2, deviceID=null, userID=2, chargeMode=false, batterySize=60.0, carDeck=闽A12345, carRank=1, waitingStatu=0]
+2023-06-07 18:32:15 [pool-1-thread-7] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-7 拿到当前系统时间为 2023-06-07 18:32
+2023-06-07 18:32:17 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 查询了充电桩空闲表单一次
+2023-06-07 18:32:17 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 即将调取订单队列
+2023-06-07 18:32:31 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1拿到订单 56 开始处理
+2023-06-07 18:32:33 [pool-1-thread-3] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-3开始处理预订单 id 为 56 的订单请求
+2023-06-07 18:32:33 [pool-1-thread-3] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-3拿到了订单： Bill [Hash = 2068822913, billID=56, chargeMod=true, created_at=Wed Jun 07 18:32:30 CST 2023, deviceID=null, chargeDuration=00:20, chargeStartTime=null, chargeEndTime=null, updated_at=Wed Jun 07 18:32:30 CST 2023, chargeFee=null, serviceFee=null, userID=5, totalFee=null, chargeAmount=10, isDone=false]
+2023-06-07 18:32:33 [pool-1-thread-3] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-3拿到了设备： Device [Hash = 1925182131, deviceID=2, workingStatu=true, chargeStatu=false, chargeTimeCount=01:25, chargeTimesCount=8, chargeFeeCount=333.1, deviceType=true, chargeRate=30, created_at=Tue Jun 06 22:54:26 CST 2023, updated_at=Tue Jun 06 22:57:23 CST 2023]
+2023-06-07 18:32:33 [pool-1-thread-3] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-3拿到了汽车： Carinfo [Hash = 811691848, carID=5, deviceID=null, userID=5, chargeMode=false, batterySize=400.0, carDeck=京N8P8F8, carRank=2, waitingStatu=0]
+2023-06-07 18:32:33 [pool-1-thread-3] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-3 拿到当前系统时间为 2023-06-07 18:32
+2023-06-07 18:32:35 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 查询了充电桩空闲表单一次
+2023-06-07 18:32:35 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1没有获取到空闲充电桩,即将休眠
+2023-06-07 18:32:47 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 查询了充电桩空闲表单一次
+2023-06-07 18:32:47 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1没有获取到空闲充电桩,即将休眠
+2023-06-07 18:32:59 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 查询了充电桩空闲表单一次
+2023-06-07 18:32:59 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1没有获取到空闲充电桩,即将休眠
+2023-06-07 18:33:11 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 查询了充电桩空闲表单一次
+2023-06-07 18:33:11 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1没有获取到空闲充电桩,即将休眠
+2023-06-07 18:33:23 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 查询了充电桩空闲表单一次
+2023-06-07 18:33:23 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1没有获取到空闲充电桩,即将休眠
+2023-06-07 18:33:35 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 查询了充电桩空闲表单一次
+2023-06-07 18:33:35 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1没有获取到空闲充电桩,即将休眠
+2023-06-07 18:33:47 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 查询了充电桩空闲表单一次
+2023-06-07 18:33:47 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1没有获取到空闲充电桩,即将休眠
+2023-06-07 18:33:59 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 查询了充电桩空闲表单一次
+2023-06-07 18:33:59 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1没有获取到空闲充电桩,即将休眠
+2023-06-07 18:34:11 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 查询了充电桩空闲表单一次
+2023-06-07 18:34:11 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1没有获取到空闲充电桩,即将休眠
+2023-06-07 18:34:23 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 查询了充电桩空闲表单一次
+2023-06-07 18:34:23 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 即将调取订单队列
+2023-06-07 18:34:23 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1拿到订单 57 开始处理
+2023-06-07 18:34:25 [pool-1-thread-4] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-4开始处理预订单 id 为 57 的订单请求
+2023-06-07 18:34:25 [pool-1-thread-4] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-4拿到了订单： Bill [Hash = 1964634329, billID=57, chargeMod=true, created_at=Wed Jun 07 18:32:43 CST 2023, deviceID=null, chargeDuration=00:20, chargeStartTime=null, chargeEndTime=null, updated_at=Wed Jun 07 18:32:43 CST 2023, chargeFee=null, serviceFee=null, userID=4, totalFee=null, chargeAmount=10, isDone=false]
+2023-06-07 18:34:25 [pool-1-thread-4] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-4拿到了设备： Device [Hash = 187937544, deviceID=1, workingStatu=true, chargeStatu=false, chargeTimeCount=10:45, chargeTimesCount=81, chargeFeeCount=68.89999999999999, deviceType=true, chargeRate=30, created_at=Tue Jun 06 22:54:26 CST 2023, updated_at=Wed Jun 07 15:06:01 CST 2023]
+2023-06-07 18:34:25 [pool-1-thread-4] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-4拿到了汽车： Carinfo [Hash = 974182195, carID=4, deviceID=null, userID=4, chargeMode=false, batterySize=150.0, carDeck=京N8P8F8, carRank=2, waitingStatu=0]
+2023-06-07 18:34:25 [pool-1-thread-4] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-4 拿到当前系统时间为 2023-06-07 18:34
+2023-06-07 18:34:27 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 查询了充电桩空闲表单一次
+2023-06-07 18:34:27 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1没有获取到空闲充电桩,即将休眠
+2023-06-07 18:34:39 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 查询了充电桩空闲表单一次
+2023-06-07 18:34:39 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1没有获取到空闲充电桩,即将休眠
+2023-06-07 18:34:51 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 查询了充电桩空闲表单一次
+2023-06-07 18:34:51 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1没有获取到空闲充电桩,即将休眠
+2023-06-07 18:35:03 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 查询了充电桩空闲表单一次
+2023-06-07 18:35:03 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1没有获取到空闲充电桩,即将休眠
+2023-06-07 18:35:15 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 查询了充电桩空闲表单一次
+2023-06-07 18:35:15 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1没有获取到空闲充电桩,即将休眠
+2023-06-07 18:35:27 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 查询了充电桩空闲表单一次
+2023-06-07 18:35:27 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1没有获取到空闲充电桩,即将休眠
+2023-06-07 18:35:39 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 查询了充电桩空闲表单一次
+2023-06-07 18:35:39 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1没有获取到空闲充电桩,即将休眠
+2023-06-07 18:35:51 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 查询了充电桩空闲表单一次
+2023-06-07 18:35:51 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1没有获取到空闲充电桩,即将休眠
+2023-06-07 18:36:03 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 查询了充电桩空闲表单一次
+2023-06-07 18:36:03 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1没有获取到空闲充电桩,即将休眠
+2023-06-07 18:36:15 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 查询了充电桩空闲表单一次
+2023-06-07 18:36:15 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1没有获取到空闲充电桩,即将休眠
+2023-06-07 18:36:27 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 查询了充电桩空闲表单一次
+2023-06-07 18:36:27 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1没有获取到空闲充电桩,即将休眠
+2023-06-07 18:36:39 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 查询了充电桩空闲表单一次
+2023-06-07 18:36:39 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1没有获取到空闲充电桩,即将休眠
+2023-06-07 18:36:51 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 查询了充电桩空闲表单一次
+2023-06-07 18:36:51 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1没有获取到空闲充电桩,即将休眠
+2023-06-07 18:37:03 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 查询了充电桩空闲表单一次
+2023-06-07 18:37:03 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1没有获取到空闲充电桩,即将休眠
+2023-06-07 18:37:15 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 查询了充电桩空闲表单一次
+2023-06-07 18:37:15 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1没有获取到空闲充电桩,即将休眠
+2023-06-07 18:37:27 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 查询了充电桩空闲表单一次
+2023-06-07 18:37:27 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1没有获取到空闲充电桩,即将休眠
+2023-06-07 18:37:39 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 查询了充电桩空闲表单一次
+2023-06-07 18:37:39 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1没有获取到空闲充电桩,即将休眠
+2023-06-07 18:37:51 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 查询了充电桩空闲表单一次
+2023-06-07 18:37:51 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1没有获取到空闲充电桩,即将休眠
+2023-06-07 18:38:03 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 查询了充电桩空闲表单一次
+2023-06-07 18:38:03 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1没有获取到空闲充电桩,即将休眠
+2023-06-07 18:38:15 [http-nio-9988-exec-2] INFO  c.project.smartcharge.system.aspect.DeviceAspect - 管理员 wangchen 关机了编号为 5 的设备
+2023-06-07 18:38:15 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 查询了充电桩空闲表单一次
+2023-06-07 18:38:15 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1没有获取到空闲充电桩,即将休眠
+2023-06-07 18:38:27 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 查询了充电桩空闲表单一次
+2023-06-07 18:38:27 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1没有获取到空闲充电桩,即将休眠
+2023-06-07 18:38:39 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 查询了充电桩空闲表单一次
+2023-06-07 18:38:39 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1没有获取到空闲充电桩,即将休眠
+2023-06-07 18:38:51 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 查询了充电桩空闲表单一次
+2023-06-07 18:38:51 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1没有获取到空闲充电桩,即将休眠
+2023-06-07 18:39:03 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 查询了充电桩空闲表单一次
+2023-06-07 18:39:03 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1没有获取到空闲充电桩,即将休眠
+2023-06-07 18:39:15 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 查询了充电桩空闲表单一次
+2023-06-07 18:39:15 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1没有获取到空闲充电桩,即将休眠
+2023-06-07 18:39:27 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 查询了充电桩空闲表单一次
+2023-06-07 18:39:27 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1没有获取到空闲充电桩,即将休眠
+2023-06-07 18:39:39 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 查询了充电桩空闲表单一次
+2023-06-07 18:39:39 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1没有获取到空闲充电桩,即将休眠
+2023-06-07 18:39:51 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 查询了充电桩空闲表单一次
+2023-06-07 18:39:51 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1没有获取到空闲充电桩,即将休眠
+2023-06-07 18:40:03 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 查询了充电桩空闲表单一次
+2023-06-07 18:40:03 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1没有获取到空闲充电桩,即将休眠
+2023-06-07 18:40:15 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 查询了充电桩空闲表单一次
+2023-06-07 18:40:15 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1没有获取到空闲充电桩,即将休眠
+2023-06-07 18:40:27 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 查询了充电桩空闲表单一次
+2023-06-07 18:40:27 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1没有获取到空闲充电桩,即将休眠
+2023-06-07 18:40:39 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 查询了充电桩空闲表单一次
+2023-06-07 18:40:39 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1没有获取到空闲充电桩,即将休眠
+2023-06-07 18:40:51 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 查询了充电桩空闲表单一次
+2023-06-07 18:40:51 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1没有获取到空闲充电桩,即将休眠
+2023-06-07 18:41:03 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 查询了充电桩空闲表单一次
+2023-06-07 18:41:03 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1没有获取到空闲充电桩,即将休眠
+2023-06-07 18:41:15 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1 查询了充电桩空闲表单一次
+2023-06-07 18:41:15 [pool-1-thread-1] INFO  c.p.smartcharge.service.impl.ComplexServiceImpl - pool-1-thread-1没有获取到空闲充电桩,即将休眠

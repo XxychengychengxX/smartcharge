@@ -1,0 +1,23 @@
+div button{
+    width:80px;
+    height:45px;
+    display: inline-block;
+    background-color: rgba(0, 255, 255, 1);
+    border: 1px solid black;
+    border-radius:10px;
+}
+
+div .img1{
+    width:1170px;
+    height:475px;
+}
+
+div .img2{
+    width:1170px;
+    height:945px;
+}
+
+div .img3{
+    width:1170px;
+    height:604px;
+}
